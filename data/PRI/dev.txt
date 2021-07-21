@@ -1,0 +1,1363 @@
+0####4,7,4,7####男子当街贩卖毒品被抓获####O O O O T T T T O O O ####NEG
+0####10,11,10,11####近百辆摩托车在景区内飙车15人被抓####O O O O O T O O O O T O O O O O ####NEG
+0####11,14,11,14####3青年用甘蔗当凶器当街拦路抢劫####O O O O O O O O O O T T T T ####NEG
+0####12,16,12,16####四川剑阁县人事局长因酒后扇老人耳光被免职####O O O O O T O O O O O O T T T T O O O ####NEG
+0####12,13,12,13####挖掘机司机施工时遭阻挠者枪击####O O O O O O O O O O O T T ####NEG
+1####6,7,12,16####公职人员醉酒驾驶被抓一路打电话求助####O O O O O O T T O O O O T T T T T ####NEG
+1####12,16,6,7####公职人员醉酒驾驶被抓一路打电话求助####O O O O O O T T O O O O T T T T T ####NEG
+0####6,7,6,7####公职人员醉酒驾驶被抓一路打电话求助####O O O O O O T T O O O O T T T T T ####NEG
+0####12,16,12,16####公职人员醉酒驾驶被抓一路打电话求助####O O O O O O T T O O O O T T T T T ####NEG
+0####4,10,11,18####女大学生写10万字日记寻因外遇离家老父####O O O O T T T T T T T T T T T T T T T ####POS
+1####11,18,4,10####女大学生写10万字日记寻因外遇离家老父####O O O O T T T T T T T T T T T T T T T ####POS
+0####11,18,11,18####女大学生写10万字日记寻因外遇离家老父####O O O O T T T T T T T T T T T T T T T ####POS
+1####5,10,11,12####女子与男友合谋杀死前夫分尸####O O O O O T T T T T T T T ####NEG
+1####11,12,5,10####女子与男友合谋杀死前夫分尸####O O O O O T T T T T T T T ####NEG
+0####5,10,5,10####女子与男友合谋杀死前夫分尸####O O O O O T T T T T T T T ####NEG
+0####11,12,11,12####女子与男友合谋杀死前夫分尸####O O O O O T T T T T T T T ####NEG
+1####6,7,12,13####女子被看房者劫持后用英语求助获救####O O O O O O T T O O O O T T O O ####NEG
+1####12,13,6,7####女子被看房者劫持后用英语求助获救####O O O O O O T T O O O O T T O O ####NEG
+0####6,7,6,7####女子被看房者劫持后用英语求助获救####O O O O O O T T O O O O T T O O ####NEG
+0####12,13,12,13####女子被看房者劫持后用英语求助获救####O O O O O O T T O O O O T T O O ####POS
+1####4,9,14,17####日本警官抢夺老妪钱包，高中生骑车猛追将其擒获####O O O O T T T T T T O O O O T T T T O O T T ####POS
+1####4,9,20,21####日本警官抢夺老妪钱包，高中生骑车猛追将其擒获####O O O O T T T T T T O O O O T T T T O O T T ####POS
+1####14,17,4,9####日本警官抢夺老妪钱包，高中生骑车猛追将其擒获####O O O O T T T T T T O O O O T T T T O O T T ####POS
+0####14,17,20,21####日本警官抢夺老妪钱包，高中生骑车猛追将其擒获####O O O O T T T T T T O O O O T T T T O O T T ####POS
+1####20,21,4,9####日本警官抢夺老妪钱包，高中生骑车猛追将其擒获####O O O O T T T T T T O O O O T T T T O O T T ####POS
+1####20,21,14,17####日本警官抢夺老妪钱包，高中生骑车猛追将其擒获####O O O O T T T T T T O O O O T T T T O O T T ####POS
+0####4,9,4,9####日本警官抢夺老妪钱包，高中生骑车猛追将其擒获####O O O O T T T T T T O O O O T T T T O O T T ####NEG
+0####20,21,20,21####日本警官抢夺老妪钱包，高中生骑车猛追将其擒获####O O O O T T T T T T O O O O T T T T O O T T ####POS
+0####6,7,6,7####北大5名学生作弊被取消学位####O O O O O O T T O O O O ####NEG
+0####7,8,7,8####大四男生寝室内自缢身亡，生前常称生活无意义####O O O O O O O T T O O O O O O O O O O ####NEG
+0####10,11,10,11####男子败诉在养殖户蛙塘投毒####O O O O O O O O O O T T ####NEG
+1####5,8,9,12####16岁少年入室盗窃杀害2人获刑14年####O O O O O T T T T T T T T O O O ####NEG
+1####9,12,5,8####16岁少年入室盗窃杀害2人获刑14年####O O O O O T T T T T T T T O O O ####NEG
+0####5,8,5,8####16岁少年入室盗窃杀害2人获刑14年####O O O O O T T T T T T T T O O O ####NEG
+0####9,12,9,12####16岁少年入室盗窃杀害2人获刑14年####O O O O O T T T T T T T T O O O ####NEG
+0####6,7,6,7####理发师用偏方治病致人死亡获刑####O O O O O O T T O O O O O O ####NEG
+1####2,5,8,14####劫匪模仿电影持枪抢劫名表专卖店####T O T T T T O O T T T T T T ####NEG
+0####8,14,2,5####劫匪模仿电影持枪抢劫名表专卖店####T O T T T T O O T T T T T T ####NEG
+0####2,5,2,5####劫匪模仿电影持枪抢劫名表专卖店####T O T T T T O O T T T T T T ####NEG
+0####2,12,2,12####歹徒抢劫价值315万元金饰被判死刑####O O T T T T T T T T T T T O O O O ####NEG
+0####6,9,10,12####汽车起火男子猛踹4脚救3人####O O O O O O T T T T T T T ####POS
+1####10,12,6,9####汽车起火男子猛踹4脚救3人####O O O O O O T T T T T T T ####POS
+0####10,12,10,12####汽车起火男子猛踹4脚救3人####O O O O O O T T T T T T T ####POS
+0####7,12,7,12####上百名热心市民围堵砸人保安####O O O O O O O T T T T T T ####POS
+0####2,8,2,8####男子诈骗高考落榜生120万获刑15年####O O T T T T T T T O O O O O O O O ####NEG
+0####7,8,7,8####84岁老太义务指路10余年####O O O O O O O T T O O O O ####POS
+0####15,18,15,18####婴儿乘客耳朵滴血，赴京航班临时备降重庆####O O O O O O O O O O O O O O O T T T T ####POS
+0####11,14,15,17####公路养护分中心人员雨夜清理石子保畅通####O O O O O O O O O O O T T T T T T T ####POS
+1####15,17,11,14####公路养护分中心人员雨夜清理石子保畅通####O O O O O O O O O O O T T T T T T T ####POS
+0####15,17,15,17####公路养护分中心人员雨夜清理石子保畅通####O O O O O O O O O O O T T T T T T T ####POS
+0####4,14,4,14####120人轮流照顾被撞昏迷女同事####O O O O T T T T T T T T T T T ####POS
+0####4,9,4,9####男子非法吸收公众存款1.91亿获刑5年####O O O O T T T T T T O O O O O O O O ####NEG
+0####2,10,2,10####孙子盗走患病爷爷医药费被刑拘####O O T T T T T T T T O O O ####NEG
+0####6,9,10,16####40多名路人抬起公交救出遇车祸夫妇，医生冒死钻进车底####O O O O O O T T T T T T T T T T T O O O O O T T T ####POS
+1####6,9,22,25####40多名路人抬起公交救出遇车祸夫妇，医生冒死钻进车底####O O O O O O T T T T T T T T T T T O O O O O T T T ####POS
+1####10,16,6,9####40多名路人抬起公交救出遇车祸夫妇，医生冒死钻进车底####O O O O O O T T T T T T T T T T T O O O O O T T T ####POS
+1####10,16,22,25####40多名路人抬起公交救出遇车祸夫妇，医生冒死钻进车底####O O O O O O T T T T T T T T T T T O O O O O T T T ####POS
+1####22,25,6,9####40多名路人抬起公交救出遇车祸夫妇，医生冒死钻进车底####O O O O O O T T T T T T T T T T T O O O O O T T T ####POS
+0####22,25,10,16####40多名路人抬起公交救出遇车祸夫妇，医生冒死钻进车底####O O O O O O T T T T T T T T T T T O O O O O T T T ####POS
+0####10,16,10,16####40多名路人抬起公交救出遇车祸夫妇，医生冒死钻进车底####O O O O O O T T T T T T T T T T T O O O O O T T T ####POS
+0####8,13,14,15####英国杀人犯用鞋带打开监狱门锁越狱####O O O O O O O O T T T T T T T ####NEG
+1####14,15,8,13####英国杀人犯用鞋带打开监狱门锁越狱####O O O O O O O O T T T T T T T ####NEG
+0####14,15,14,15####英国杀人犯用鞋带打开监狱门锁越狱####O O O O O O O O T T T T T T T ####NEG
+1####6,9,15,16####三名歹徒持枪抢劫摩托遭百余群众围捕####O O O O O O T T T T O O O O O T T ####NEG
+1####15,16,6,9####三名歹徒持枪抢劫摩托遭百余群众围捕####O O O O O O T T T T O O O O O T T ####NEG
+0####6,9,6,9####三名歹徒持枪抢劫摩托遭百余群众围捕####O O O O O O T T T T O O O O O T T ####NEG
+0####15,16,15,16####三名歹徒持枪抢劫摩托遭百余群众围捕####O O O O O O T T T T O O O O O T T ####POS
+0####2,6,7,15####小偷跳上方向盘逼迫公交司机开车门####O O T T T T T T T T T T T T T T ####NEG
+1####7,15,2,6####小偷跳上方向盘逼迫公交司机开车门####O O T T T T T T T T T T T T T T ####NEG
+0####7,15,7,15####小偷跳上方向盘逼迫公交司机开车门####O O T T T T T T T T T T T T T T ####NEG
+0####7,16,7,16####诈骗公司连环计骗取大学生职业介绍费####O T O O O O O T T T T T T T T T ####NEG
+1####4,9,11,12####教务主任维持校内秩序遭围殴####O O O O T T T T T T O T T ####POS
+1####11,12,4,9####教务主任维持校内秩序遭围殴####O O O O T T T T T T O T T ####POS
+0####4,9,4,9####教务主任维持校内秩序遭围殴####O O O O T T T T T T O T T ####POS
+0####11,12,11,12####教务主任维持校内秩序遭围殴####O O O O T T T T T T O T T ####NEG
+0####23,26,23,26####刹车失灵汽车跌落60米山崖，退伍军人和他人一起救起3人####O O O O O O O O O O O O O O O O T O O O T T T ####POS
+0####2,12,2,12####男子盗打7千次境外声讯电话被判15年####O O T T T T T T T T T T T O O O O O ####NEG
+0####13,14,13,14####大学男生疑其对生活失去信心跳河身亡####O O O O O O O O O O O O T T O O ####NEG
+0####3,10,11,14####快递员尾随其他公司同行盗窃货物10余万####O O O T T T T T T T T T T T T O O O O ####NEG
+1####11,14,3,10####快递员尾随其他公司同行盗窃货物10余万####O O O T T T T T T T T T T T T O O O O ####NEG
+0####11,14,11,14####快递员尾随其他公司同行盗窃货物10余万####O O O T T T T T T T T T T T T O O O O ####NEG
+0####4,5,4,5####广州酒后驾车撞死人交警被刑事拘留####O O O O T T O O O O O O O O O O ####NEG
+0####6,10,6,10####女大学生网上贴男婴裸照遭警方约谈####O O O O O O T T T T T O O O O O ####NEG
+0####2,5,6,7####男子抵押房产借钱救患癌症前妻####O O T T T T T T T T T T T T ####POS
+1####2,5,8,13####男子抵押房产借钱救患癌症前妻####O O T T T T T T T T T T T T ####POS
+1####6,7,2,5####男子抵押房产借钱救患癌症前妻####O O T T T T T T T T T T T T ####POS
+0####6,7,8,13####男子抵押房产借钱救患癌症前妻####O O T T T T T T T T T T T T ####POS
+1####8,13,2,5####男子抵押房产借钱救患癌症前妻####O O T T T T T T T T T T T T ####POS
+1####8,13,6,7####男子抵押房产借钱救患癌症前妻####O O T T T T T T T T T T T T ####POS
+0####8,13,8,13####男子抵押房产借钱救患癌症前妻####O O T T T T T T T T T T T T ####POS
+0####2,4,15,16####徒步爬冰山五小时，助产士为村民接生####O O T T T O O O O O O O O O O T T ####POS
+1####15,16,2,4####徒步爬冰山五小时，助产士为村民接生####O O T T T O O O O O O O O O O T T ####POS
+0####15,16,15,16####徒步爬冰山五小时，助产士为村民接生####O O T T T O O O O O O O O O O T T ####POS
+0####12,17,12,17####抢劫团伙用600斤重饲料压死反抗女子####O O O O O O O O O O O T T T T T T ####NEG
+1####3,6,18,19####驾宝马连撞3车致1人身亡女司机向警方自首####O O O T T T T O O O O O O O O O O O T T ####NEG
+1####18,19,3,6####驾宝马连撞3车致1人身亡女司机向警方自首####O O O T T T T O O O O O O O O O O O T T ####NEG
+0####3,6,3,6####驾宝马连撞3车致1人身亡女司机向警方自首####O O O T T T T O O O O O O O O O O O T T ####NEG
+0####18,19,18,19####驾宝马连撞3车致1人身亡女司机向警方自首####O O O T T T T O O O O O O O O O O O T T ####POS
+1####5,8,13,15####检察院依法监督维权，申诉人送锦旗表示感谢####O O O O O T T T T O O O O T T T T T T T ####POS
+1####5,8,16,19####检察院依法监督维权，申诉人送锦旗表示感谢####O O O O O T T T T O O O O T T T T T T T ####POS
+1####13,15,5,8####检察院依法监督维权，申诉人送锦旗表示感谢####O O O O O T T T T O O O O T T T T T T T ####POS
+0####13,15,16,19####检察院依法监督维权，申诉人送锦旗表示感谢####O O O O O T T T T O O O O T T T T T T T ####POS
+1####16,19,5,8####检察院依法监督维权，申诉人送锦旗表示感谢####O O O O O T T T T O O O O T T T T T T T ####POS
+1####16,19,13,15####检察院依法监督维权，申诉人送锦旗表示感谢####O O O O O T T T T O O O O T T T T T T T ####POS
+0####5,8,5,8####检察院依法监督维权，申诉人送锦旗表示感谢####O O O O O T T T T O O O O T T T T T T T ####POS
+0####16,19,16,19####检察院依法监督维权，申诉人送锦旗表示感谢####O O O O O T T T T O O O O T T T T T T T ####POS
+1####8,9,15,16####男子自称身带炸药劫车，民警迅速堵截将其抓获####O O O O O O O O T T O O O O O T T O O T T ####POS
+1####8,9,19,20####男子自称身带炸药劫车，民警迅速堵截将其抓获####O O O O O O O O T T O O O O O T T O O T T ####POS
+1####15,16,8,9####男子自称身带炸药劫车，民警迅速堵截将其抓获####O O O O O O O O T T O O O O O T T O O T T ####POS
+0####15,16,19,20####男子自称身带炸药劫车，民警迅速堵截将其抓获####O O O O O O O O T T O O O O O T T O O T T ####POS
+1####19,20,8,9####男子自称身带炸药劫车，民警迅速堵截将其抓获####O O O O O O O O T T O O O O O T T O O T T ####POS
+1####19,20,15,16####男子自称身带炸药劫车，民警迅速堵截将其抓获####O O O O O O O O T T O O O O O T T O O T T ####POS
+0####8,9,8,9####男子自称身带炸药劫车，民警迅速堵截将其抓获####O O O O O O O O T T O O O O O T T O O T T ####NEG
+0####19,20,19,20####男子自称身带炸药劫车，民警迅速堵截将其抓获####O O O O O O O O T T O O O O O T T O O T T ####POS
+0####4,12,13,18####皮包公司虚构6.5亿元工程诈骗2名老板220万####O O O O T T T T T T T T T T T T T T T O O ####NEG
+1####13,18,4,12####皮包公司虚构6.5亿元工程诈骗2名老板220万####O O O O T T T T T T T T T T T T T T T O O ####NEG
+0####13,18,13,18####皮包公司虚构6.5亿元工程诈骗2名老板220万####O O O O T T T T T T T T T T T T T T T O O ####NEG
+0####4,8,9,18####消防队员剪断防盗网解救煤气中毒一家三口####O T O O T T T T T T T T T T T T T T ####POS
+1####9,18,4,8####消防队员剪断防盗网解救煤气中毒一家三口####O T O O T T T T T T T T T T T T T T ####POS
+0####9,18,9,18####消防队员剪断防盗网解救煤气中毒一家三口####O T O O T T T T T T T T T T T T T T ####POS
+0####9,13,9,13####男子输液猝死，家属怒砸门诊室####O O O O O O O O O T T T T T ####NEG
+0####9,15,9,15####名校毕业生酷爱枪支躲在宾馆内偷造####O O O O O O O O O T T T T T T T ####NEG
+0####6,7,6,7####药店老板违规打针致小伙短暂瘫痪####O O O O O O T T O O O O O O O ####NEG
+0####8,11,8,11####14岁男孩染网瘾离家出走成流浪少年####O O O O O O O O T T T T O O O O O ####NEG
+1####4,5,12,15####司机酒后驾车并掏出仿真枪威胁民警####O O O O T T O O O O O O T T T T ####NEG
+1####12,15,4,5####司机酒后驾车并掏出仿真枪威胁民警####O O O O T T O O O O O O T T T T ####NEG
+0####4,5,4,5####司机酒后驾车并掏出仿真枪威胁民警####O O O O T T O O O O O O T T T T ####NEG
+0####12,15,12,15####司机酒后驾车并掏出仿真枪威胁民警####O O O O T T O O O O O O T T T T ####NEG
+0####2,4,2,4####男子泼液体烧伤前女友及情敌####O O T T T O O O O O O O O ####NEG
+0####10,14,10,14####女教师拾得万余元现金归还给失主####O O O O O O O O O O T T T T T ####POS
+0####15,18,15,18####19岁小伙为几十元车费持水果刀抢出租车####O O O O O O O O O T O O O O O T T T ####NEG
+1####8,12,16,17####2名少年与女网友发生性关系后将其砸死####O O O O O O O O T T T T T O O O T T ####NEG
+1####16,17,8,12####2名少年与女网友发生性关系后将其砸死####O O O O O O O O T T T T T O O O T T ####NEG
+0####8,12,8,12####2名少年与女网友发生性关系后将其砸死####O O O O O O O O T T T T T O O O T T ####NEG
+0####16,17,16,17####2名少年与女网友发生性关系后将其砸死####O O O O O O O O T T T T T O O O T T ####NEG
+1####5,6,7,11####官员为方便受贿改亲人生日####O O O O O T T T T T T T ####NEG
+0####7,11,5,6####官员为方便受贿改亲人生日####O O O O O T T T T T T T ####NEG
+0####5,6,5,6####官员为方便受贿改亲人生日####O O O O O T T T T T T T ####NEG
+0####11,12,13,19####南门小学四位小伙伴勇敢出手灭南区慢线火苗####T O O O O O O O O O T T T T T T T T ####POS
+1####13,19,11,12####南门小学四位小伙伴勇敢出手灭南区慢线火苗####T O O O O O O O O O T T T T T T T T ####POS
+0####13,19,13,19####南门小学四位小伙伴勇敢出手灭南区慢线火苗####T O O O O O O O O O T T T T T T T T ####POS
+0####9,16,9,16####男子怀疑被同乡举报杀害对方一家三口####O O O O O O O O O T T T T T T T T ####NEG
+0####2,5,6,13####骗子伪造护照帮落榜生入读名校获刑####O O T T T T T T T T T T T T O O ####NEG
+1####6,13,2,5####骗子伪造护照帮落榜生入读名校获刑####O O T T T T T T T T T T T T O O ####NEG
+0####6,13,6,13####骗子伪造护照帮落榜生入读名校获刑####O O T T T T T T T T T T T T O O ####NEG
+0####12,13,16,21####40米，70秒！他用最帅冲刺徒手接住坠楼女孩####O O O O O O O O O O O T T O O T T T T T T ####POS
+1####16,21,12,13####40米，70秒！他用最帅冲刺徒手接住坠楼女孩####O O O O O O O O O O O T T O O T T T T T T ####POS
+0####16,21,16,21####40米，70秒！他用最帅冲刺徒手接住坠楼女孩####O O O O O O O O O O O T T O O T T T T T T ####POS
+0####9,17,9,17####英国57岁女子家中收藏4000只时钟####O O O O O O O O O T T T T T T T ####POS
+0####16,19,16,19####医患情深，他们在手绘卡通版合影上互赠祝福####O O O O O O O O O O O O O O O O T T T T ####POS
+0####17,18,17,18####街道25个贫困家庭获得永辉超市爱心资助####O O O O O O O O O O O O O O O O O T T ####POS
+0####5,8,9,11####北科大学生劫持人质抢银行续：已被刑拘####O O O O O T T T T T T T O O O O O O ####NEG
+1####9,11,5,8####北科大学生劫持人质抢银行续：已被刑拘####O O O O O T T T T T T T O O O O O O ####NEG
+0####9,11,9,11####北科大学生劫持人质抢银行续：已被刑拘####O O O O O T T T T T T T O O O O O O ####NEG
+0####14,17,14,17####社区关工委暧心行动给困难儿童送上口罩####O O O O O O O O O O O O O O T T T T ####POS
+1####7,12,14,19####游客被黑旅行社逼交3倍费用遭软禁11小时####O O O O O O O T T T T T T O T T T T T ####NEG
+0####14,19,7,12####游客被黑旅行社逼交3倍费用遭软禁11小时####O O O O O O O T T T T T T O T T T T T ####NEG
+0####7,12,7,12####游客被黑旅行社逼交3倍费用遭软禁11小时####O O O O O O O T T T T T T O T T T T T ####NEG
+1####6,9,15,18####醉酒男子持刀抢劫同事，中途酒醒赔礼道歉####O O O O O O T T T T O O O O T T T T ####NEG
+1####15,18,6,9####醉酒男子持刀抢劫同事，中途酒醒赔礼道歉####O O O O O O T T T T O O O O T T T T ####NEG
+0####6,9,6,9####醉酒男子持刀抢劫同事，中途酒醒赔礼道歉####O O O O O O T T T T O O O O T T T T ####NEG
+0####15,18,15,18####醉酒男子持刀抢劫同事，中途酒醒赔礼道歉####O O O O O O T T T T O O O O T T T T ####POS
+1####9,12,16,17####患精神病男子扛气枪进火车站被便衣擒住####O O O O O O O O O T T T T O O O T T ####NEG
+1####16,17,9,12####患精神病男子扛气枪进火车站被便衣擒住####O O O O O O O O O T T T T O O O T T ####NEG
+0####9,12,9,12####患精神病男子扛气枪进火车站被便衣擒住####O O O O O O O O O T T T T O O O T T ####NEG
+0####16,17,16,17####患精神病男子扛气枪进火车站被便衣擒住####O O O O O O O O O T T T T O O O T T ####POS
+1####5,8,12,16####15岁少年索要零钱未遂，购买毒鼠药毒死妈妈####O O O O O T T T T O O O T T T T T T T ####NEG
+1####5,8,17,20####15岁少年索要零钱未遂，购买毒鼠药毒死妈妈####O O O O O T T T T O O O T T T T T T T ####NEG
+1####12,16,5,8####15岁少年索要零钱未遂，购买毒鼠药毒死妈妈####O O O O O T T T T O O O T T T T T T T ####NEG
+0####12,16,17,20####15岁少年索要零钱未遂，购买毒鼠药毒死妈妈####O O O O O T T T T O O O T T T T T T T ####NEG
+1####17,20,5,8####15岁少年索要零钱未遂，购买毒鼠药毒死妈妈####O O O O O T T T T O O O T T T T T T T ####NEG
+1####17,20,12,16####15岁少年索要零钱未遂，购买毒鼠药毒死妈妈####O O O O O T T T T O O O T T T T T T T ####NEG
+0####5,8,5,8####15岁少年索要零钱未遂，购买毒鼠药毒死妈妈####O O O O O T T T T O O O T T T T T T T ####NEG
+0####17,20,17,20####15岁少年索要零钱未遂，购买毒鼠药毒死妈妈####O O O O O T T T T O O O T T T T T T T ####NEG
+0####7,10,17,21####团伙在取款机前摸人小腿，趁其回头时调包银行卡####O O O O O O O T T T T O O O O O O T T T T T ####NEG
+1####17,21,7,10####团伙在取款机前摸人小腿，趁其回头时调包银行卡####O O O O O O O T T T T O O O O O O T T T T T ####NEG
+0####17,21,17,21####团伙在取款机前摸人小腿，趁其回头时调包银行卡####O O O O O O O T T T T O O O O O O T T T T T ####NEG
+0####12,13,12,13####40余辆轿车轮胎一夜间被扎破####O O O O O O O O O O O O T T ####NEG
+0####19,22,19,22####河北有群“熊猫侠”：危急时刻，撸起袖子献血救人####O O O O O O O O O O O O O O O O O O O T T T T ####POS
+1####6,7,8,13####6男子矿井下杀人伪造安全事故，专骗死者赔偿金####O O O O O O T T T T T T T T O O T T T T T T ####NEG
+0####6,7,16,21####6男子矿井下杀人伪造安全事故，专骗死者赔偿金####O O O O O O T T T T T T T T O O T T T T T T ####NEG
+1####8,13,6,7####6男子矿井下杀人伪造安全事故，专骗死者赔偿金####O O O O O O T T T T T T T T O O T T T T T T ####NEG
+0####8,13,16,21####6男子矿井下杀人伪造安全事故，专骗死者赔偿金####O O O O O O T T T T T T T T O O T T T T T T ####NEG
+1####16,21,6,7####6男子矿井下杀人伪造安全事故，专骗死者赔偿金####O O O O O O T T T T T T T T O O T T T T T T ####NEG
+1####16,21,8,13####6男子矿井下杀人伪造安全事故，专骗死者赔偿金####O O O O O O T T T T T T T T O O T T T T T T ####NEG
+0####16,21,16,21####6男子矿井下杀人伪造安全事故，专骗死者赔偿金####O O O O O O T T T T T T T T O O T T T T T T ####NEG
+1####6,11,14,15####6岁女孩每天照顾瘫痪爸爸为其按摩####O O O O O O T T T T T O O T T ####POS
+1####14,15,6,11####6岁女孩每天照顾瘫痪爸爸为其按摩####O O O O O O T T T T T O O T T ####POS
+0####6,11,6,11####6岁女孩每天照顾瘫痪爸爸为其按摩####O O O O O O T T T T T O O T T ####POS
+0####14,15,14,15####6岁女孩每天照顾瘫痪爸爸为其按摩####O O O O O O T T T T T O O T T ####POS
+0####4,5,4,5####民警多次诈骗获款92万获刑14年####O O O O T T O O O O O O O O O ####NEG
+0####4,5,4,5####男子非法集资近百人5000余万元被判死缓####O O O O T T O O O O O O O O O O O O ####NEG
+0####11,14,11,14####重病男子为求解脱将钢钉插进头顶####O O O O O O O O O O O T T T T ####NEG
+0####7,10,7,10####男子将无辜老人推入江中淹死####O O O O O O O T T T T O O ####NEG
+0####11,12,11,12####浙江平湖市人大代表醉酒驾驶被拘####O O O O O O O O O O O T T O O ####NEG
+0####4,9,4,9####医学博士制造贩卖冰毒被抓获####O O O O T T T T T T O O O ####NEG
+0####6,9,6,9####男子求爱不成劫持女友被击毙####O O O O O O T T T T O O O ####NEG
+1####4,5,6,13####5名男子行窃砍断刑侦队长手指获刑####O O O O T T T T T T T T T T O ####NEG
+1####6,13,4,5####5名男子行窃砍断刑侦队长手指获刑####O O O O T T T T T T T T T T O ####NEG
+0####4,5,4,5####5名男子行窃砍断刑侦队长手指获刑####O O O O T T T T T T T T T T O ####NEG
+0####6,13,6,13####5名男子行窃砍断刑侦队长手指获刑####O O O O T T T T T T T T T T O ####NEG
+1####3,4,9,12####强奸犯施暴后给女孩留下名片称多联系####O O O T T O O O O T T T T O O O O ####NEG
+1####9,12,3,4####强奸犯施暴后给女孩留下名片称多联系####O O O T T O O O O T T T T O O O O ####NEG
+0####3,4,3,4####强奸犯施暴后给女孩留下名片称多联系####O O O T T O O O O T T T T O O O O ####NEG
+0####9,12,9,12####强奸犯施暴后给女孩留下名片称多联系####O O O T T O O O O T T T T O O O O ####NEG
+0####9,17,9,17####女子拾得挎包向失主索要500元感谢费####O O O O O O O O O T T T T T T T T ####NEG
+0####13,14,15,19####诈骗团伙成员用50多万赃款铺床庆女儿百天####O O O O O O O O O O O O O T T T T T T T ####NEG
+1####15,19,13,14####诈骗团伙成员用50多万赃款铺床庆女儿百天####O O O O O O O O O O O O O T T T T T T T ####NEG
+0####15,19,15,19####诈骗团伙成员用50多万赃款铺床庆女儿百天####O O O O O O O O O O O O O T T T T T T T ####NEG
+0####8,13,15,16####软件工程师用木马篡改彩票数据欲诈骗3305万####O O O O O O O O T T T T T T O T T O O O O ####NEG
+1####15,16,8,13####软件工程师用木马篡改彩票数据欲诈骗3305万####O O O O O O O O T T T T T T O T T O O O O ####NEG
+0####15,16,15,16####软件工程师用木马篡改彩票数据欲诈骗3305万####O O O O O O O O T T T T T T O T T O O O O ####NEG
+0####12,13,12,13####已婚女子与怀孕闺蜜到外省骗婚被抓####O T O O O O O O O O O O T O O ####NEG
+1####4,9,10,18####小店店主闯入市容大队暴打城管队员及警察####O O O T T T T T T T T T T T T T T ####NEG
+1####10,18,4,9####小店店主闯入市容大队暴打城管队员及警察####O O O T T T T T T T T T T T T T T ####NEG
+0####4,9,4,9####小店店主闯入市容大队暴打城管队员及警察####O O O T T T T T T T T T T T T T T ####NEG
+0####10,18,10,18####小店店主闯入市容大队暴打城管队员及警察####O O O T T T T T T T T T T T T T T ####NEG
+0####2,5,2,5####男子见死不救被判故意杀人罪获刑11年####O O T T T T O O O O O O O O O O O ####NEG
+0####9,12,9,12####村民欲私了交通事故殴伤交警####O O O O O T O O O T T T ####NEG
+1####8,9,11,12####女大学生遭摩托车飞抢被拖行200米####O O O O O O O O T T O T T O O O ####NEG
+1####11,12,8,9####女大学生遭摩托车飞抢被拖行200米####O O O O O O O O T T O T T O O O ####NEG
+0####8,9,8,9####女大学生遭摩托车飞抢被拖行200米####O O O O O O O O T T O T T O O O ####NEG
+0####11,12,11,12####女大学生遭摩托车飞抢被拖行200米####O O O O O O O O T T O T T O O O ####NEG
+0####11,15,11,15####失恋男子拎汽油瓶向媒人索要恋爱费####O T O O O O O O O O O T T T T ####NEG
+0####3,6,3,6####工程师掐死前妻，辩称不堪经济暴力####O O O T T T T O O O O O O O O O ####NEG
+1####8,9,10,14####女子被男友抛弃为泄愤制造纵火案####O O O O O O O O T T T T T T T ####NEG
+0####10,14,8,9####女子被男友抛弃为泄愤制造纵火案####O O O O O O O O T T T T T T T ####NEG
+0####8,9,8,9####女子被男友抛弃为泄愤制造纵火案####O O O O O O O O T T T T T T T ####NEG
+0####4,6,7,15####入室小偷留字条要求店主下次放现金####O O O O T T T T T T T T T T T T ####NEG
+1####7,15,4,6####入室小偷留字条要求店主下次放现金####O O O O T T T T T T T T T T T T ####NEG
+0####7,15,7,15####入室小偷留字条要求店主下次放现金####O O O O T T T T T T T T T T T T ####NEG
+0####4,10,11,12####嫌犯持枪绑走11岁男孩勒索500万####O O O O T T T T T T T T O O O ####NEG
+1####11,12,4,10####嫌犯持枪绑走11岁男孩勒索500万####O O O O T T T T T T T T O O O ####NEG
+0####11,12,11,12####嫌犯持枪绑走11岁男孩勒索500万####O O O O T T T T T T T T O O O ####NEG
+1####2,9,11,12####路人指责城管粗暴执法遭群殴骨折####O O T T T T T T T T O T T O O ####POS
+1####11,12,2,9####路人指责城管粗暴执法遭群殴骨折####O O T T T T T T T T O T T O O ####POS
+0####2,9,2,9####路人指责城管粗暴执法遭群殴骨折####O O T T T T T T T T O T T O O ####POS
+0####11,12,11,12####路人指责城管粗暴执法遭群殴骨折####O O T T T T T T T T O T T O O ####NEG
+1####3,6,10,11####大学生参加传销亏本后抢劫杀人获死刑####O O O T T T T O O O T T T T O O O ####NEG
+1####3,6,12,13####大学生参加传销亏本后抢劫杀人获死刑####O O O T T T T O O O T T T T O O O ####NEG
+1####10,11,3,6####大学生参加传销亏本后抢劫杀人获死刑####O O O T T T T O O O T T T T O O O ####NEG
+1####10,11,12,13####大学生参加传销亏本后抢劫杀人获死刑####O O O T T T T O O O T T T T O O O ####NEG
+1####12,13,3,6####大学生参加传销亏本后抢劫杀人获死刑####O O O T T T T O O O T T T T O O O ####NEG
+1####12,13,10,11####大学生参加传销亏本后抢劫杀人获死刑####O O O T T T T O O O T T T T O O O ####NEG
+0####3,6,3,6####大学生参加传销亏本后抢劫杀人获死刑####O O O T T T T O O O T T T T O O O ####NEG
+0####10,11,10,11####大学生参加传销亏本后抢劫杀人获死刑####O O O T T T T O O O T T T T O O O ####NEG
+0####12,13,12,13####大学生参加传销亏本后抢劫杀人获死刑####O O O T T T T O O O T T T T O O O ####NEG
+1####2,6,10,14####男子强奸女同事四年后抢劫男同事####T O T T T T T O O O T T ####NEG
+1####10,14,2,6####男子强奸女同事四年后抢劫男同事####T O T T T T T O O O T T ####NEG
+0####2,6,2,6####男子强奸女同事四年后抢劫男同事####T O T T T T T O O O T T ####NEG
+0####10,14,10,14####男子强奸女同事四年后抢劫男同事####T O T T T T T O O O T T ####NEG
+0####11,12,11,12####男子腰缠火腿肠假冒炸弹抢劫被刑拘####O O O O O O O O O O O T T O O O ####NEG
+0####7,12,7,12####市场承包人之子聚众殴打菜贩致死####O O O O O O O T T T T T T O O ####NEG
+0####6,10,6,10####反传销志愿者解救大学生被刺四刀受重伤####O O O O O O T T T T T O O O O O O O ####POS
+0####12,15,12,15####小女孩病重送医遇堵，交警接力护送11分钟跑8公里####O O O O O T O O O O O O T T T O O O O O O O ####POS
+0####4,5,4,5####八旬老汉偷车被抓因年老被释放####O O O O T T O O O O O O ####NEG
+0####2,5,6,7####老板谋杀雇工骗保被注射死刑####O O T T T T T T O O O O O ####NEG
+1####6,7,2,5####老板谋杀雇工骗保被注射死刑####O O T T T T T T O O O O O ####NEG
+0####6,7,6,7####老板谋杀雇工骗保被注射死刑####O O T T T T T T O O O O O ####NEG
+0####9,13,14,15####年轻男子不满被辞退发恐吓邮件敲诈30万被抓####O O O O O O O O O T T T T T T T O O O O ####NEG
+1####14,15,9,13####年轻男子不满被辞退发恐吓邮件敲诈30万被抓####O O O O O O O O O T T T T T T T O O O O ####NEG
+0####14,15,14,15####年轻男子不满被辞退发恐吓邮件敲诈30万被抓####O O O O O O O O O T T T T T T T O O O O ####NEG
+0####5,11,5,11####男子用弹弓射爆流浪猫眼球遭网友声讨####O O O O O T T T T T T T O O O O O ####NEG
+1####6,7,14,18####十余小伙吃饭赖账，六旬老太被逼向其磕头要钱####O O O O O O T T O O O O O O T T T T T T T ####NEG
+1####6,7,19,20####十余小伙吃饭赖账，六旬老太被逼向其磕头要钱####O O O O O O T T O O O O O O T T T T T T T ####NEG
+1####14,18,6,7####十余小伙吃饭赖账，六旬老太被逼向其磕头要钱####O O O O O O T T O O O O O O T T T T T T T ####NEG
+0####14,18,19,20####十余小伙吃饭赖账，六旬老太被逼向其磕头要钱####O O O O O O T T O O O O O O T T T T T T T ####NEG
+1####19,20,6,7####十余小伙吃饭赖账，六旬老太被逼向其磕头要钱####O O O O O O T T O O O O O O T T T T T T T ####NEG
+1####19,20,14,18####十余小伙吃饭赖账，六旬老太被逼向其磕头要钱####O O O O O O T T O O O O O O T T T T T T T ####NEG
+0####6,7,6,7####十余小伙吃饭赖账，六旬老太被逼向其磕头要钱####O O O O O O T T O O O O O O T T T T T T T ####NEG
+0####19,20,19,20####十余小伙吃饭赖账，六旬老太被逼向其磕头要钱####O O O O O O T T O O O O O O T T T T T T T ####NEG
+0####9,13,9,13####父亲发现女儿同居后捅伤其男友####O O O O O O O O O T T T T T ####NEG
+0####10,16,10,16####人社局为就业困难人员办社会保险补贴####O T O O O O O O O T T T T T T ####POS
+1####5,10,16,17####三名90后谋划杀人劫财，民警意外盘查救出租司机####O O O O O T T T T T T O O O O O T T T T T T T ####NEG
+1####5,10,18,22####三名90后谋划杀人劫财，民警意外盘查救出租司机####O O O O O T T T T T T O O O O O T T T T T T T ####NEG
+1####16,17,5,10####三名90后谋划杀人劫财，民警意外盘查救出租司机####O O O O O T T T T T T O O O O O T T T T T T T ####NEG
+1####16,17,18,22####三名90后谋划杀人劫财，民警意外盘查救出租司机####O O O O O T T T T T T O O O O O T T T T T T T ####NEG
+1####18,22,5,10####三名90后谋划杀人劫财，民警意外盘查救出租司机####O O O O O T T T T T T O O O O O T T T T T T T ####NEG
+1####18,22,16,17####三名90后谋划杀人劫财，民警意外盘查救出租司机####O O O O O T T T T T T O O O O O T T T T T T T ####NEG
+0####5,10,5,10####三名90后谋划杀人劫财，民警意外盘查救出租司机####O O O O O T T T T T T O O O O O T T T T T T T ####NEG
+0####16,17,16,17####三名90后谋划杀人劫财，民警意外盘查救出租司机####O O O O O T T T T T T O O O O O T T T T T T T ####POS
+0####18,22,18,22####三名90后谋划杀人劫财，民警意外盘查救出租司机####O O O O O T T T T T T O O O O O T T T T T T T ####POS
+0####7,8,7,8####女工在饮水机中投药获刑1年####O O O O O O O T T O O O O ####NEG
+0####12,13,12,13####男婴出生6天患重病遭父亲遗弃致死####O O O O O O O O O O O O T T O O ####NEG
+1####2,7,10,11####男子监禁妻子情夫欲行敲诈被批捕####O T T T T T T O O T T O O O ####NEG
+1####10,11,2,7####男子监禁妻子情夫欲行敲诈被批捕####O T T T T T T O O T T O O O ####NEG
+0####2,7,2,7####男子监禁妻子情夫欲行敲诈被批捕####O T T T T T T O O T T O O O ####NEG
+0####10,11,10,11####男子监禁妻子情夫欲行敲诈被批捕####O T T T T T T O O T T O O O ####NEG
+0####12,14,12,14####网帖曝游客在清华校园随地丢垃圾####O O O O O O O O O O O O T T T ####NEG
+0####14,15,14,15####病人吸氧一次被医院按一个半月收费####O O O O O O O O O O O O O T T ####NEG
+1####3,6,7,19####村委会集资修路要女子死亡6年亲人出一份钱####O O O T T T T T T T T T T T T T T T T T ####NEG
+0####7,19,3,6####村委会集资修路要女子死亡6年亲人出一份钱####O O O T T T T T T T T T T T T T T T T T ####NEG
+0####3,6,3,6####村委会集资修路要女子死亡6年亲人出一份钱####O O O T T T T T T T T T T T T T T T T T ####NEG
+1####6,10,15,20####民办高校收钱发假毕业证，曝光后威胁学生退回####O O O O O O T T T T T O O O O T T T T T T ####NEG
+1####15,20,6,10####民办高校收钱发假毕业证，曝光后威胁学生退回####O O O O O O T T T T T O O O O T T T T T T ####NEG
+0####6,10,6,10####民办高校收钱发假毕业证，曝光后威胁学生退回####O O O O O O T T T T T O O O O T T T T T T ####NEG
+0####15,20,15,20####民办高校收钱发假毕业证，曝光后威胁学生退回####O O O O O O T T T T T O O O O T T T T T T ####NEG
+1####6,7,16,19####3名男子当街抢劫10万，数十路人力擒歹徒####O O O O O O T T O O O O O O O O T T T T ####NEG
+1####16,19,6,7####3名男子当街抢劫10万，数十路人力擒歹徒####O O O O O O T T O O O O O O O O T T T T ####NEG
+0####6,7,6,7####3名男子当街抢劫10万，数十路人力擒歹徒####O O O O O O T T O O O O O O O O T T T T ####NEG
+0####16,19,16,19####3名男子当街抢劫10万，数十路人力擒歹徒####O O O O O O T T O O O O O O O O T T T T ####POS
+0####11,14,11,14####暴雨无情人有情公路分局抢通道路####O O O O O O O T O O T T T ####POS
+0####8,15,8,15####浴室摄像头中病毒拍摄女子出浴裸照####T O T O O O O O T T T T T T ####NEG
+1####7,10,16,21####两男子街头持刀挟持人质，的哥将其困在后车厢内####O O O O O T O T T T O O O O O T T T T T T ####NEG
+1####16,21,7,10####两男子街头持刀挟持人质，的哥将其困在后车厢内####O O O O O T O T T T O O O O O T T T T T T ####NEG
+0####7,10,7,10####两男子街头持刀挟持人质，的哥将其困在后车厢内####O O O O O T O T T T O O O O O T T T T T T ####NEG
+0####16,21,16,21####两男子街头持刀挟持人质，的哥将其困在后车厢内####O O O O O T O T T T O O O O O T T T T T T ####POS
+0####8,15,8,15####女子不满情夫爽约请老乡中秋夜杀人####O O O O O O O O T T T T T T T T ####NEG
+0####12,13,12,13####男子拿10万元冥币到银行汇款被警方带走####O O O O O O O O O O O O T T O O O O O ####NEG
+0####4,7,10,14####绝症女孩苦学两年成功考上研究生####O O O O T T T T O O T T T T T ####POS
+1####10,14,4,7####绝症女孩苦学两年成功考上研究生####O O O O T T T T O O T T T T T ####POS
+0####10,14,10,14####绝症女孩苦学两年成功考上研究生####O O O O T T T T O O T T T T T ####POS
+0####5,6,5,6####街道办吃饭赊账拖垮餐馆，欠款1.3万10年未还####O O O O O T T O O O O O O O O O O O O O O O ####NEG
+1####3,4,11,14####大学生作弊被取消学位后状告母校遭驳回####O O O T T O O O O O T T T T O O O ####NEG
+1####11,14,3,4####大学生作弊被取消学位后状告母校遭驳回####O O O T T O O O O O T T T T O O O ####NEG
+0####3,4,3,4####大学生作弊被取消学位后状告母校遭驳回####O O O T T O O O O O T T T T O O O ####NEG
+0####11,14,11,14####大学生作弊被取消学位后状告母校遭驳回####O O O T T O O O O O T T T T O O O ####NEG
+0####4,7,4,7####治安队长越权审批致200余枚雷管流入天安门####O O O O T T T T O O O O O O O O O O O ####NEG
+1####6,8,11,12####36名大学生游桂林疑遭殴打勒索####O O O O O O T T T O O T T T T ####POS
+1####6,8,13,14####36名大学生游桂林疑遭殴打勒索####O O O O O O T T T O O T T T T ####POS
+1####11,12,6,8####36名大学生游桂林疑遭殴打勒索####O O O O O O T T T O O T T T T ####POS
+1####11,12,13,14####36名大学生游桂林疑遭殴打勒索####O O O O O O T T T O O T T T T ####POS
+1####13,14,6,8####36名大学生游桂林疑遭殴打勒索####O O O O O O T T T O O T T T T ####POS
+1####13,14,11,12####36名大学生游桂林疑遭殴打勒索####O O O O O O T T T O O T T T T ####POS
+0####6,8,6,8####36名大学生游桂林疑遭殴打勒索####O O O O O O T T T O O T T T T ####POS
+0####11,12,11,12####36名大学生游桂林疑遭殴打勒索####O O O O O O T T T O O T T T T ####NEG
+0####13,14,13,14####36名大学生游桂林疑遭殴打勒索####O O O O O O T T T O O T T T T ####NEG
+0####9,11,9,11####肇事司机将被撞老太扔路边致其死亡####O O O O O O O O O T T T O O O O ####NEG
+0####2,7,8,13####员工偷盗公司零件组装成摩托车####O O T T T T T T T T T T T T ####NEG
+1####8,13,2,7####员工偷盗公司零件组装成摩托车####O O T T T T T T T T T T T T ####NEG
+0####8,13,8,13####员工偷盗公司零件组装成摩托车####O O T T T T T T T T T T T T ####NEG
+0####4,11,4,11####男子将箭射入2岁女童体内被抓####O O O O T T T T T T T T O O ####NEG
+0####5,15,5,15####盐政科科长收受盐商181万元贿赂获刑####T O O O T T T T T T T T T O O ####NEG
+0####7,16,7,16####走私犯用挂号信寄26枚濒危蝴蝶标本被捕####O O O O O O O T T T T T T T T T T O O ####NEG
+0####8,12,8,12####男子疑因感情纠葛跳下18楼被气垫救下####O O O O O O O O T T T T T O O O O ####NEG
+0####9,13,9,13####夫妻利用邮寄土豆片走私兴奋剂####O O O O O O O O O T T T T T ####NEG
+1####6,7,11,14####小偷公交车上行窃露馅后捅伤乘客获刑10年####O O O O O O T T O O O T T T T O O O O O ####NEG
+1####11,14,6,7####小偷公交车上行窃露馅后捅伤乘客获刑10年####O O O O O O T T O O O T T T T O O O O O ####NEG
+0####6,7,6,7####小偷公交车上行窃露馅后捅伤乘客获刑10年####O O O O O O T T O O O T T T T O O O O O ####NEG
+0####11,14,11,14####小偷公交车上行窃露馅后捅伤乘客获刑10年####O O O O O O T T O O O T T T T O O O O O ####NEG
+0####8,11,8,11####副县长辞官后非法倒卖土地被判4年半罚金1600万####O O O O O O O O T T T T O O O O O O O O O O O ####NEG
+0####13,14,13,14####九旬老人摔伤，大四女生街头救人####O O O T O O O O O O O O O T ####POS
+1####7,8,12,17####改嫁女子遭儿子威胁，全家逃入深山避祸####O O O O O O T T O O O T T T T T T ####NEG
+1####12,17,7,8####改嫁女子遭儿子威胁，全家逃入深山避祸####O O O O O O T T O O O T T T T T T ####NEG
+0####7,8,7,8####改嫁女子遭儿子威胁，全家逃入深山避祸####O O O O O O T T O O O T T T T T T ####NEG
+0####12,17,12,17####改嫁女子遭儿子威胁，全家逃入深山避祸####O O O O O O T T O O O T T T T T T ####POS
+0####6,10,6,10####青年公交车上点火烧座套被拘####O O O O O O T T T T T O O ####NEG
+0####11,14,11,14####恋人因感情遭家长反对欲跳楼殉情####O O O O T O O O O O O T T T ####NEG
+0####3,6,3,6####旅客包藏四把枪机场被扣留####O O O T T T T O O O O O ####NEG
+0####3,7,12,17####市妇联发放资助金21万元救助春蕾女童####O O O T T T T T O O O O T T T T T ####POS
+1####12,17,3,7####市妇联发放资助金21万元救助春蕾女童####O O O T T T T T O O O O T T T T T ####POS
+0####12,17,12,17####市妇联发放资助金21万元救助春蕾女童####O O O T T T T T O O O O T T T T T ####POS
+1####6,7,12,15####男子带杀猪刀嫖娼遭报警后劫持人质####O O O O O O T T O O O O T T T T ####NEG
+1####12,15,6,7####男子带杀猪刀嫖娼遭报警后劫持人质####O O O O O O T T O O O O T T T T ####NEG
+0####6,7,6,7####男子带杀猪刀嫖娼遭报警后劫持人质####O O O O O O T T O O O O T T T T ####NEG
+0####12,15,12,15####男子带杀猪刀嫖娼遭报警后劫持人质####O O O O O O T T O O O O T T T T ####NEG
+0####13,16,13,16####乘客欲在中途下公交车被拒后拳打司机####O O O O O O O O O O O O O T T T T ####NEG
+0####13,16,13,16####男子怀疑他人诬赖自己偷窃，灌人喝尿致其死亡####O O O O O T O O O O O O O T T T O O O O ####NEG
+0####7,16,7,16####省二勘职工家属开展爱心捐衣捐物行动####O O O O O O O T T T T T T T T T ####POS
+0####2,3,11,12####父母托人将出生3天男婴卖掉####O O T T O O O O O O O T T ####NEG
+1####11,12,2,3####父母托人将出生3天男婴卖掉####O O T T O O O O O O O T T ####NEG
+0####11,12,11,12####父母托人将出生3天男婴卖掉####O O T T O O O O O O O T T ####NEG
+1####4,6,7,8####银行行长挪巨资潜逃后自首，仍有2千万下落不明####O O O T T T T T O T T O O O O O O O O O O ####NEG
+1####4,6,10,11####银行行长挪巨资潜逃后自首，仍有2千万下落不明####O O O T T T T T O T T O O O O O O O O O O ####NEG
+1####7,8,4,6####银行行长挪巨资潜逃后自首，仍有2千万下落不明####O O O T T T T T O T T O O O O O O O O O O ####NEG
+1####7,8,10,11####银行行长挪巨资潜逃后自首，仍有2千万下落不明####O O O T T T T T O T T O O O O O O O O O O ####NEG
+1####10,11,4,6####银行行长挪巨资潜逃后自首，仍有2千万下落不明####O O O T T T T T O T T O O O O O O O O O O ####NEG
+1####10,11,7,8####银行行长挪巨资潜逃后自首，仍有2千万下落不明####O O O T T T T T O T T O O O O O O O O O O ####NEG
+0####4,6,4,6####银行行长挪巨资潜逃后自首，仍有2千万下落不明####O O O T T T T T O T T O O O O O O O O O O ####NEG
+0####7,8,7,8####银行行长挪巨资潜逃后自首，仍有2千万下落不明####O O O T T T T T O T T O O O O O O O O O O ####NEG
+0####10,11,10,11####银行行长挪巨资潜逃后自首，仍有2千万下落不明####O O O T T T T T O T T O O O O O O O O O O ####POS
+0####7,14,15,17####退休老汉向亲友诈骗240余万元买彩票####O O O O O O O T T T T T T T T T T T ####NEG
+1####15,17,7,14####退休老汉向亲友诈骗240余万元买彩票####O O O O O O O T T T T T T T T T T T ####NEG
+0####15,17,15,17####退休老汉向亲友诈骗240余万元买彩票####O O O O O O O T T T T T T T T T T T ####NEG
+0####8,13,8,13####无牌车主深夜强行带走查车民警####O O T O O O O O T T T T T ####NEG
+1####4,6,7,10####无证摊贩抢地盘大打出手，伞柄穿胸捅死男婴####O O O O T T T T T T T O O O O O T T T T ####NEG
+1####4,6,16,19####无证摊贩抢地盘大打出手，伞柄穿胸捅死男婴####O O O O T T T T T T T O O O O O T T T T ####NEG
+0####7,10,4,6####无证摊贩抢地盘大打出手，伞柄穿胸捅死男婴####O O O O T T T T T T T O O O O O T T T T ####NEG
+1####7,10,16,19####无证摊贩抢地盘大打出手，伞柄穿胸捅死男婴####O O O O T T T T T T T O O O O O T T T T ####NEG
+0####16,19,4,6####无证摊贩抢地盘大打出手，伞柄穿胸捅死男婴####O O O O T T T T T T T O O O O O T T T T ####NEG
+1####16,19,7,10####无证摊贩抢地盘大打出手，伞柄穿胸捅死男婴####O O O O T T T T T T T O O O O O T T T T ####NEG
+0####4,6,4,6####无证摊贩抢地盘大打出手，伞柄穿胸捅死男婴####O O O O T T T T T T T O O O O O T T T T ####NEG
+0####7,20,7,20####省二勘大队领导走访慰问60年以上党龄老党员####O O O O O O O T T T T T T T T T T T T T ####POS
+0####7,10,7,10####男子持两把菜刀追砍干警被拘留15天####O O O O O O O T T T T O O O O O O ####NEG
+0####5,8,5,8####姐姐为妹妹以身试药####O O O T T T T ####POS
+0####6,11,6,11####男子在福利院遗弃脑瘫女婴被拍下####O O O O O O T T T T T T O O O ####NEG
+1####4,8,9,13####碰瓷团伙雇孕妇撞车扮警察处理####O O O O T T T T T T T T T T ####NEG
+1####9,13,4,8####碰瓷团伙雇孕妇撞车扮警察处理####O O O O T T T T T T T T T T ####NEG
+0####4,8,4,8####碰瓷团伙雇孕妇撞车扮警察处理####O O O O T T T T T T T T T T ####NEG
+0####9,13,9,13####碰瓷团伙雇孕妇撞车扮警察处理####O O O O T T T T T T T T T T ####NEG
+0####2,3,4,7####窃贼应聘入厂打工盗走160万元受审####O O T T T T T T T T T T T T T O O ####NEG
+1####2,3,8,14####窃贼应聘入厂打工盗走160万元受审####O O T T T T T T T T T T T T T O O ####NEG
+1####4,7,2,3####窃贼应聘入厂打工盗走160万元受审####O O T T T T T T T T T T T T T O O ####NEG
+0####4,7,8,14####窃贼应聘入厂打工盗走160万元受审####O O T T T T T T T T T T T T T O O ####NEG
+1####8,14,2,3####窃贼应聘入厂打工盗走160万元受审####O O T T T T T T T T T T T T T O O ####NEG
+1####8,14,4,7####窃贼应聘入厂打工盗走160万元受审####O O T T T T T T T T T T T T T O O ####NEG
+0####8,14,8,14####窃贼应聘入厂打工盗走160万元受审####O O T T T T T T T T T T T T T O O ####NEG
+1####11,13,16,20####母亲患绝症肌肉萎缩，为见儿子每天步行5公里####O O O O O O O O O O O T T T O O T T T T T ####POS
+0####16,20,11,13####母亲患绝症肌肉萎缩，为见儿子每天步行5公里####O O O O O O O O O O O T T T O O T T T T T ####POS
+0####11,13,11,13####母亲患绝症肌肉萎缩，为见儿子每天步行5公里####O O O O O O O O O O O T T T O O T T T T T ####POS
+0####2,5,6,7####男子冒充警察诈骗被拘，妻子结婚4年不明其身份####O O T T T T T T O O O O O O O O O O O O O ####NEG
+1####6,7,2,5####男子冒充警察诈骗被拘，妻子结婚4年不明其身份####O O T T T T T T O O O O O O O O O O O O O ####NEG
+0####6,7,6,7####男子冒充警察诈骗被拘，妻子结婚4年不明其身份####O O T T T T T T O O O O O O O O O O O O O ####NEG
+0####2,5,6,13####工人悬赏万元寻找欠薪逃跑老板####O O T T T T T T T T T T T T ####POS
+1####6,13,2,5####工人悬赏万元寻找欠薪逃跑老板####O O T T T T T T T T T T T T ####POS
+0####6,13,6,13####工人悬赏万元寻找欠薪逃跑老板####O O T T T T T T T T T T T T ####POS
+1####3,8,9,11####男子为报复空姐女友报假警称飞机上有爆炸物####O O O T T T T T T T T O O O O O O O O ####NEG
+0####9,11,3,8####男子为报复空姐女友报假警称飞机上有爆炸物####O O O T T T T T T T T O O O O O O O O ####NEG
+0####3,8,3,8####男子为报复空姐女友报假警称飞机上有爆炸物####O O O T T T T T T T T O O O O O O O O ####NEG
+0####11,17,11,17####民工摔下电梯身亡，老板拖延3天未上报####O O O O O O O O O O O T T T T T T T ####NEG
+0####12,15,12,15####公交车司机发病晕倒前坚持靠边停车####O O T O O O O O O O O O T T T ####POS
+1####6,7,12,13####职校近百学生群殴，持刀棍互劈20分钟####O O O O O O T T O O O O T T O O O O ####NEG
+1####12,13,6,7####职校近百学生群殴，持刀棍互劈20分钟####O O O O O O T T O O O O T T O O O O ####NEG
+0####6,7,6,7####职校近百学生群殴，持刀棍互劈20分钟####O O O O O O T T O O O O T T O O O O ####NEG
+0####12,13,12,13####职校近百学生群殴，持刀棍互劈20分钟####O O O O O O T T O O O O T T O O O O ####NEG
+0####4,9,4,9####疑犯恶意透支手机话费被判无期徒刑####O O O O T T T T T T O O O O O O ####NEG
+1####6,7,18,19####数十人与民警冲突，防暴警察用催泪瓦斯驱散####O O O O O O T T O O O O O O O O O T T ####NEG
+1####18,19,6,7####数十人与民警冲突，防暴警察用催泪瓦斯驱散####O O O O O O T T O O O O O O O O O T T ####NEG
+0####6,7,6,7####数十人与民警冲突，防暴警察用催泪瓦斯驱散####O O O O O O T T O O O O O O O O O T T ####NEG
+0####18,19,18,19####数十人与民警冲突，防暴警察用催泪瓦斯驱散####O O O O O O T T O O O O O O O O O T T ####POS
+0####5,6,7,10####女子乘公交假摔敲诈司机被判刑4年####O O O O O T T T T T T O O O O O ####NEG
+1####7,10,5,6####女子乘公交假摔敲诈司机被判刑4年####O O O O O T T T T T T O O O O O ####NEG
+0####7,10,7,10####女子乘公交假摔敲诈司机被判刑4年####O O O O O T T T T T T O O O O O ####NEG
+1####11,12,4,9####醉酒司机撞死骑车女子后逃跑被拘####O O O O T T T T T T O T T O O ####NEG
+1####4,9,11,12####醉酒司机撞死骑车女子后逃跑被拘####O O O O T T T T T T O T T O O ####NEG
+0####11,12,11,12####醉酒司机撞死骑车女子后逃跑被拘####O O O O T T T T T T O T T O O ####NEG
+0####4,9,4,9####醉酒司机撞死骑车女子后逃跑被拘####O O O O T T T T T T O T T O O ####NEG
+0####2,4,2,4####居民烧纸钱引燃水沟沼气炸伤8岁男童####O O T T T O O O O O O O O O O O O ####NEG
+0####5,10,5,10####58岁男子奸淫6岁幼女获刑7年####O O T O O T T T T T O O O O ####NEG
+0####15,21,15,21####女研究生莫名失踪40余天续警方成立专案组调查####O O O O O O O O O O O O O O O T T T T T T T ####POS
+1####2,6,9,14####歹徒夜劫小金铺割喉杀害看店女孩####O O T T T T T O O T T T T T T ####NEG
+1####9,14,2,6####歹徒夜劫小金铺割喉杀害看店女孩####O O T T T T T O O T T T T T T ####NEG
+0####2,6,2,6####歹徒夜劫小金铺割喉杀害看店女孩####O O T T T T T O O T T T T T T ####NEG
+0####9,14,9,14####歹徒夜劫小金铺割喉杀害看店女孩####O O T T T T T O O T T T T T T ####NEG
+1####3,6,11,16####男子为讨好情人4.5万卖掉亲生儿子####O T O T T T T O O O O T T T T T ####NEG
+0####11,16,3,6####男子为讨好情人4.5万卖掉亲生儿子####O T O T T T T O O O O T T T T T ####NEG
+0####3,6,3,6####男子为讨好情人4.5万卖掉亲生儿子####O T O T T T T O O O O T T T T T ####NEG
+0####3,10,3,10####传销员杀死上线及其父母被判死刑####O O O T T T T T T T T O O O ####NEG
+0####2,6,7,12####药店雇未成年人散发性药广告####T O T T T T T T T T T T ####NEG
+1####7,12,2,6####药店雇未成年人散发性药广告####T O T T T T T T T T T T ####NEG
+0####7,12,7,12####药店雇未成年人散发性药广告####T O T T T T T T T T T T ####NEG
+0####5,7,5,7####广州对记者说粗话经理被撤职####O O O O O T T T O O O O O ####NEG
+0####7,12,7,12####网帖曝高校女生留宿男友宿舍近1年####O O O O O O O T T T T T O O O ####NEG
+1####3,5,6,11####男子为筹赌资找人冒充妻子骗贷20万####O T O T T T T T T T T T T O O O ####NEG
+1####3,5,12,13####男子为筹赌资找人冒充妻子骗贷20万####O T O T T T T T T T T T T O O O ####NEG
+1####6,11,3,5####男子为筹赌资找人冒充妻子骗贷20万####O T O T T T T T T T T T T O O O ####NEG
+0####6,11,12,13####男子为筹赌资找人冒充妻子骗贷20万####O T O T T T T T T T T T T O O O ####NEG
+0####12,13,3,5####男子为筹赌资找人冒充妻子骗贷20万####O T O T T T T T T T T T T O O O ####NEG
+1####12,13,6,11####男子为筹赌资找人冒充妻子骗贷20万####O T O T T T T T T T T T T O O O ####NEG
+0####3,5,3,5####男子为筹赌资找人冒充妻子骗贷20万####O T O T T T T T T T T T T O O O ####NEG
+0####4,8,4,8####员工持刀杀死董事长被判死刑####O O O O T T T T T O O O ####NEG
+1####3,8,10,11####中学生参加社会实践，吆喝半小时卖菜收入5块####O O O T T T T T T O T T O O O T T O O O O ####POS
+1####3,8,15,16####中学生参加社会实践，吆喝半小时卖菜收入5块####O O O T T T T T T O T T O O O T T O O O O ####POS
+1####10,11,3,8####中学生参加社会实践，吆喝半小时卖菜收入5块####O O O T T T T T T O T T O O O T T O O O O ####POS
+0####10,11,15,16####中学生参加社会实践，吆喝半小时卖菜收入5块####O O O T T T T T T O T T O O O T T O O O O ####POS
+1####15,16,3,8####中学生参加社会实践，吆喝半小时卖菜收入5块####O O O T T T T T T O T T O O O T T O O O O ####POS
+1####15,16,10,11####中学生参加社会实践，吆喝半小时卖菜收入5块####O O O T T T T T T O T T O O O T T O O O O ####POS
+0####3,8,3,8####中学生参加社会实践，吆喝半小时卖菜收入5块####O O O T T T T T T O T T O O O T T O O O O ####POS
+0####15,16,15,16####中学生参加社会实践，吆喝半小时卖菜收入5块####O O O T T T T T T O T T O O O T T O O O O ####POS
+0####14,18,14,18####男子醉酒摔成植物人，妻子失踪拒付医疗费####O O O O O O O O O O O O O T T T T T ####NEG
+0####0,2,3,9####卖面条资助40名学子，银川“面条哥”感动全国####T T T T T T T T T T O O O O O O O O O O ####POS
+1####3,9,0,2####卖面条资助40名学子，银川“面条哥”感动全国####T T T T T T T T T T O O O O O O O O O O ####POS
+0####3,9,3,9####卖面条资助40名学子，银川“面条哥”感动全国####T T T T T T T T T T O O O O O O O O O O ####POS
+0####13,16,13,16####男子听信算命先生说妻子克夫离家出走####O O O O O O O O O O O O T T T T ####NEG
+0####7,14,7,14####四名教职工实名举报校长学术造假####O O O O O O T T T T T T T T ####POS
+0####4,7,4,7####学校老板卷款潜逃致80余名学生失学####O O O O T T T T O O O O O O O ####NEG
+0####9,13,14,22####台球厅服务员辞职后潜回台球厅偷走4000枚硬币####T T T O O O O O O T T T T T T T T T ####NEG
+1####14,22,9,13####台球厅服务员辞职后潜回台球厅偷走4000枚硬币####T T T O O O O O O T T T T T T T T T ####NEG
+0####14,22,14,22####台球厅服务员辞职后潜回台球厅偷走4000枚硬币####T T T O O O O O O T T T T T T T T T ####NEG
+0####12,17,12,17####司法局熟用“五字”调解法化解群众矛盾####O O O O O O O O O O T T T T T T ####POS
+1####2,7,13,14####经理拒绝强揽工程遭20余人围殴####O O T T T T T T O O O O O T T ####POS
+1####13,14,2,7####经理拒绝强揽工程遭20余人围殴####O O T T T T T T O O O O O T T ####POS
+0####2,7,2,7####经理拒绝强揽工程遭20余人围殴####O O T T T T T T O O O O O T T ####POS
+0####13,14,13,14####经理拒绝强揽工程遭20余人围殴####O O T T T T T T O O O O O T T ####NEG
+0####5,6,5,6####逃犯到监狱探监被民警识破就擒####O O O T O T O O O O O O O ####NEG
+1####6,10,11,16####男子为给爷爷买生日礼物盗窃5辆摩托####O O O O O T T T T T T T T T T T ####NEG
+0####11,16,6,10####男子为给爷爷买生日礼物盗窃5辆摩托####O O O O O T T T T T T T T T T T ####NEG
+0####6,10,6,10####男子为给爷爷买生日礼物盗窃5辆摩托####O O O O O T T T T T T T T T T T ####NEG
+0####7,10,11,14####信阳66岁农民跳进水塘连救4人：情愿拿命去换####O O O O O O T T T T T T T T O O O O O O O ####POS
+1####11,14,7,10####信阳66岁农民跳进水塘连救4人：情愿拿命去换####O O O O O O T T T T T T T T O O O O O O O ####POS
+0####11,14,11,14####信阳66岁农民跳进水塘连救4人：情愿拿命去换####O O O O O O T T T T T T T T O O O O O O O ####POS
+0####4,7,4,7####男子持刀抢劫公司7万元被判死刑####O O O O T T T T O O O O O O O ####NEG
+0####7,15,7,15####市慈善总会领导慰问社区残疾贫困户####O O O O O O O T T T T T T T T T ####POS
+0####8,11,8,11####保洁员捡千元现金苦寻失主11天####O O O O O O O O T T T T O O ####POS
+0####2,7,8,12####盗贼打穿混凝土墙洗劫珠宝店偷走200块名表####O O T T T T T T T T T T T T T T T T T T ####NEG
+1####2,7,13,20####盗贼打穿混凝土墙洗劫珠宝店偷走200块名表####O O T T T T T T T T T T T T T T T T T T ####NEG
+1####8,12,2,7####盗贼打穿混凝土墙洗劫珠宝店偷走200块名表####O O T T T T T T T T T T T T T T T T T T ####NEG
+1####8,12,13,20####盗贼打穿混凝土墙洗劫珠宝店偷走200块名表####O O T T T T T T T T T T T T T T T T T T ####NEG
+1####13,20,2,7####盗贼打穿混凝土墙洗劫珠宝店偷走200块名表####O O T T T T T T T T T T T T T T T T T T ####NEG
+1####13,20,8,12####盗贼打穿混凝土墙洗劫珠宝店偷走200块名表####O O T T T T T T T T T T T T T T T T T T ####NEG
+0####8,12,8,12####盗贼打穿混凝土墙洗劫珠宝店偷走200块名表####O O T T T T T T T T T T T T T T T T T T ####NEG
+0####13,20,13,20####盗贼打穿混凝土墙洗劫珠宝店偷走200块名表####O O T T T T T T T T T T T T T T T T T T ####NEG
+0####5,12,5,12####民警将警车交给饮酒朋友驾驶造成1死1伤####O O O O T T T T T T T T O O O O O ####NEG
+0####5,15,5,15####两名大学生绑架杀害邻居13岁女孩被判死刑####O O O O O T T T T T T T T T T T O O O O ####NEG
+0####5,8,9,12####男子在机场劫持人质勒索1亿获刑10年####O O O O O T T T T T T T T O O O O ####NEG
+1####9,12,5,8####男子在机场劫持人质勒索1亿获刑10年####O O O O O T T T T T T T T O O O O ####NEG
+0####9,12,9,12####男子在机场劫持人质勒索1亿获刑10年####O O O O O T T T T T T T T O O O O ####NEG
+0####4,8,4,8####男子4年强奸30人被执行死刑####O O O O T T T T T O O O O O ####NEG
+0####7,11,7,11####4歹徒凌晨持刀抢劫麻将室2人被擒####O O O O O O O T T T T T O O O O ####NEG
+0####5,13,5,13####72岁老人生擒30岁持刀小偷####O O T O O T T T T T T T T ####POS
+0####10,13,10,13####台湾男子1个半月4度性侵儿媳被判刑####O O O O O O O O O O T T T T O O O ####NEG
+0####13,14,13,14####高二女生被疑偷手机后留遗书跳楼####O O O O O O O O O O O O O T T ####NEG
+1####2,5,11,12####老翁点燃煤气后从22楼跳下侥幸生还####O O T T T T O O O O T T O O O O ####NEG
+1####11,12,2,5####老翁点燃煤气后从22楼跳下侥幸生还####O O T T T T O O O O T T O O O O ####NEG
+0####2,5,2,5####老翁点燃煤气后从22楼跳下侥幸生还####O O T T T T O O O O T T O O O O ####NEG
+0####11,12,11,12####老翁点燃煤气后从22楼跳下侥幸生还####O O T T T T O O O O T T O O O O ####NEG
+0####4,5,8,13####女子楼顶自焚未能阻止暴力拆迁####O O O O T T O O T T T T T T ####NEG
+1####8,13,4,5####女子楼顶自焚未能阻止暴力拆迁####O O O O T T O O T T T T T T ####NEG
+0####8,13,8,13####女子楼顶自焚未能阻止暴力拆迁####O O O O T T O O T T T T T T ####NEG
+0####14,16,14,16####95岁老汉连续十几年每天义务扫马路10小时####O O O O O O O O O O O O O O T T T O O O O ####POS
+1####8,11,13,18####村民因宅基地纠纷杀死2人后引爆炸药自杀####O O O O O O O O T T T T O T T T T T ####NEG
+1####13,18,8,11####村民因宅基地纠纷杀死2人后引爆炸药自杀####O O O O O O O O T T T T O T T T T T ####NEG
+0####8,11,8,11####村民因宅基地纠纷杀死2人后引爆炸药自杀####O O O O O O O O T T T T O T T T T T ####NEG
+0####13,18,13,18####村民因宅基地纠纷杀死2人后引爆炸药自杀####O O O O O O O O T T T T O T T T T T ####NEG
+0####9,13,9,13####高考期间50名家长拉横幅封路防汽车鸣笛####O O O O O O O O O T T T T T O O O O O ####NEG
+0####2,4,5,12####男子拍裸照敲诈3名女大学生被批捕####O O T T T T T T T T T T T O O O ####NEG
+1####5,12,2,4####男子拍裸照敲诈3名女大学生被批捕####O O T T T T T T T T T T T O O O ####NEG
+0####5,12,5,12####男子拍裸照敲诈3名女大学生被批捕####O O T T T T T T T T T T T O O O ####NEG
+0####14,19,14,19####沈阳民警跨越2700公里为民寻找走失亲人####O O O O O O O O O O O O T T T T T T ####POS
+1####2,3,5,6####男子袭警后自杀，警方调查原因####O O T T O T T O O T T T T ####NEG
+1####2,3,10,13####男子袭警后自杀，警方调查原因####O O T T O T T O O T T T T ####NEG
+1####5,6,2,3####男子袭警后自杀，警方调查原因####O O T T O T T O O T T T T ####NEG
+1####5,6,10,13####男子袭警后自杀，警方调查原因####O O T T O T T O O T T T T ####NEG
+1####10,13,2,3####男子袭警后自杀，警方调查原因####O O T T O T T O O T T T T ####NEG
+1####10,13,5,6####男子袭警后自杀，警方调查原因####O O T T O T T O O T T T T ####NEG
+0####2,3,2,3####男子袭警后自杀，警方调查原因####O O T T O T T O O T T T T ####NEG
+0####5,6,5,6####男子袭警后自杀，警方调查原因####O O T T O T T O O T T T T ####NEG
+0####10,13,10,13####男子袭警后自杀，警方调查原因####O O T T O T T O O T T T T ####POS
+1####2,9,17,20####兄妹合谋异乡杀死父亲，幼年曾目睹其打残母亲####O O T T T T T T T T O O O O O O O T T T ####NEG
+1####17,20,2,9####兄妹合谋异乡杀死父亲，幼年曾目睹其打残母亲####O O T T T T T T T T O O O O O O O T T T ####NEG
+0####2,9,2,9####兄妹合谋异乡杀死父亲，幼年曾目睹其打残母亲####O O T T T T T T T T O O O O O O O T T T ####NEG
+0####17,20,17,20####兄妹合谋异乡杀死父亲，幼年曾目睹其打残母亲####O O T T T T T T T T O O O O O O O T T T ####NEG
+0####2,7,8,9####男子挪用百万公款炒股亏损大半，狂办信用卡套现####O O T T T T T T T T O O O O O O T T T T T ####NEG
+1####2,7,16,19####男子挪用百万公款炒股亏损大半，狂办信用卡套现####O O T T T T T T T T O O O O O O T T T T T ####NEG
+1####2,7,20,21####男子挪用百万公款炒股亏损大半，狂办信用卡套现####O O T T T T T T T T O O O O O O T T T T T ####NEG
+1####8,9,2,7####男子挪用百万公款炒股亏损大半，狂办信用卡套现####O O T T T T T T T T O O O O O O T T T T T ####NEG
+1####8,9,16,19####男子挪用百万公款炒股亏损大半，狂办信用卡套现####O O T T T T T T T T O O O O O O T T T T T ####NEG
+1####8,9,20,21####男子挪用百万公款炒股亏损大半，狂办信用卡套现####O O T T T T T T T T O O O O O O T T T T T ####NEG
+1####16,19,2,7####男子挪用百万公款炒股亏损大半，狂办信用卡套现####O O T T T T T T T T O O O O O O T T T T T ####NEG
+1####16,19,8,9####男子挪用百万公款炒股亏损大半，狂办信用卡套现####O O T T T T T T T T O O O O O O T T T T T ####NEG
+0####16,19,20,21####男子挪用百万公款炒股亏损大半，狂办信用卡套现####O O T T T T T T T T O O O O O O T T T T T ####NEG
+1####20,21,2,7####男子挪用百万公款炒股亏损大半，狂办信用卡套现####O O T T T T T T T T O O O O O O T T T T T ####NEG
+1####20,21,8,9####男子挪用百万公款炒股亏损大半，狂办信用卡套现####O O T T T T T T T T O O O O O O T T T T T ####NEG
+1####20,21,16,19####男子挪用百万公款炒股亏损大半，狂办信用卡套现####O O T T T T T T T T O O O O O O T T T T T ####NEG
+0####8,9,8,9####男子挪用百万公款炒股亏损大半，狂办信用卡套现####O O T T T T T T T T O O O O O O T T T T T ####NEG
+0####20,21,20,21####男子挪用百万公款炒股亏损大半，狂办信用卡套现####O O T T T T T T T T O O O O O O T T T T T ####NEG
+1####3,6,7,12####儿子为保护母亲刺死吸毒父亲####O O O T T T T T T T T T ####NEG
+0####7,12,3,6####儿子为保护母亲刺死吸毒父亲####O O O T T T T T T T T T ####NEG
+0####3,6,3,6####儿子为保护母亲刺死吸毒父亲####O O O T T T T T T T T T ####NEG
+0####18,21,18,21####女青年信用卡透支自愿做情人，被假富商骗财骗色####O O O O O O O O O O O O O O O O O O T T T ####NEG
+1####5,11,13,16####男子用匕首怒杀妻子的情人后投案自首####O T O O T T T T T T T O T T T ####NEG
+1####13,16,5,11####男子用匕首怒杀妻子的情人后投案自首####O T O O T T T T T T T O T T T ####NEG
+0####5,11,5,11####男子用匕首怒杀妻子的情人后投案自首####O T O O T T T T T T T O T T T ####NEG
+0####13,16,13,16####男子用匕首怒杀妻子的情人后投案自首####O T O O T T T T T T T O T T T ####POS
+0####9,12,9,12####高考生因成绩不理想服毒自杀####O O O O O O O O O T T T T ####NEG
+0####10,13,10,13####少年为与母亲一起生活刺伤继父获刑1年####O O O O O O O O O O T T T T O O O ####NEG
+0####7,8,7,8####无腿司机高速路飙车时速达153公里####O O O O O O O T T O O O O O O O ####NEG
+0####11,12,11,12####股民用他人账户密码恶意炒作损失10万元####O O O O O O O O O O O T T O O O O O O ####NEG
+0####2,10,2,10####子女让8旬失明母亲独居荒废院落####O O T T T T T T T T T O O O O ####NEG
+0####8,11,8,11####“丽江最美司机”拒收捐款，坦言灾区人民更需要助####O O O O O O O O T T T T O O O O O O O O O O O ####POS
+0####2,5,2,5####农民冒充港商谈判中露出破绽####O O T T T T O O O O O O O ####NEG
+0####9,14,9,14####再婚女子为再次生育杀害9岁儿子####O O O T O O O O T T T T T ####NEG
+0####2,6,13,14####男子驾驶宝马车将与其打架者撞死####O O T T T T T O O O O O O T T ####NEG
+1####13,14,2,6####男子驾驶宝马车将与其打架者撞死####O O T T T T T O O O O O O T T ####NEG
+0####13,14,13,14####男子驾驶宝马车将与其打架者撞死####O O T T T T T O O O O O O T T ####NEG
+1####5,6,12,15####4名农民工讨薪遭数人持械殴打入院####O O O O O T T O O O O O T T T T ####POS
+1####12,15,5,6####4名农民工讨薪遭数人持械殴打入院####O O O O O T T O O O O O T T T T ####POS
+0####5,6,5,6####4名农民工讨薪遭数人持械殴打入院####O O O O O T T O O O O O T T T T ####POS
+0####12,15,12,15####4名农民工讨薪遭数人持械殴打入院####O O O O O T T O O O O O T T T T ####NEG
+0####4,13,4,13####民警及时救助一名女精神病患者####O O O O T T T T T T T T T T ####POS
+0####4,10,4,10####韩国男子诱奸64名女性可能被判无罪####O O O O T T T T T T T O O O O O O ####NEG
+0####4,5,11,14####数名男子驾车从家长怀中抢走男婴####O O T O T T O O O O O T T T ####NEG
+1####11,14,4,5####数名男子驾车从家长怀中抢走男婴####O O T O T T O O O O O T T T ####NEG
+0####11,14,11,14####数名男子驾车从家长怀中抢走男婴####O O T O T T O O O O O T T T ####NEG
+0####2,9,10,13####夫妻雇请5个流浪少年制售假证####O O T T T T T T T T T T T T ####NEG
+1####10,13,2,9####夫妻雇请5个流浪少年制售假证####O O T T T T T T T T T T T T ####NEG
+0####10,13,10,13####夫妻雇请5个流浪少年制售假证####O O T T T T T T T T T T T T ####NEG
+0####10,13,10,13####台北出租车司机因口角撞死乘客####O O O O O O O O O O T T T T ####NEG
+1####5,6,12,13####男子在国外逃亡18年回国自首####O O O O O T T O O O O T T ####NEG
+1####12,13,5,6####男子在国外逃亡18年回国自首####O O O O O T T O O O O T T ####NEG
+0####5,6,5,6####男子在国外逃亡18年回国自首####O O O O O T T O O O O T T ####NEG
+0####12,13,12,13####男子在国外逃亡18年回国自首####O O O O O T T O O O O T T ####POS
+1####7,10,11,15####乘客因7元差价殴打的哥砸烂出租车####O O O O O O O T T T T T T T T T ####NEG
+1####11,15,7,10####乘客因7元差价殴打的哥砸烂出租车####O O O O O O O T T T T T T T T T ####NEG
+0####7,10,7,10####乘客因7元差价殴打的哥砸烂出租车####O O O O O O O T T T T T T T T T ####NEG
+0####11,15,11,15####乘客因7元差价殴打的哥砸烂出租车####O O O O O O O T T T T T T T T T ####NEG
+0####8,11,8,11####北京站西站黑车专宰外地客，执法部门否认收钱####O O O O O O O T T T T O O O O O O O O O ####NEG
+0####17,20,17,20####舍己救人大学生所在游泳俱乐部今年已救33人####O O T T O O O O O O O O O O O O O T ####POS
+0####20,23,20,23####广州：地铁站里不慎丢失结婚金饰，工作人员拾金不昧获市民点赞####O O O O O O O T O O O O O T O O O O O O T T O O O O O ####POS
+0####15,18,15,18####敬礼男孩郎峥妈妈向北川寻子母亲提供线索####O O O O O O O O O O O O O O T T T T ####POS
+0####7,8,12,15####纽约囚犯向看守问路后从容走出牢房逃脱####O O O O O O O T T O O O T T T T T T ####NEG
+1####7,8,16,17####纽约囚犯向看守问路后从容走出牢房逃脱####O O O O O O O T T O O O T T T T T T ####NEG
+1####12,15,7,8####纽约囚犯向看守问路后从容走出牢房逃脱####O O O O O O O T T O O O T T T T T T ####NEG
+0####12,15,16,17####纽约囚犯向看守问路后从容走出牢房逃脱####O O O O O O O T T O O O T T T T T T ####NEG
+1####16,17,7,8####纽约囚犯向看守问路后从容走出牢房逃脱####O O O O O O O T T O O O T T T T T T ####NEG
+1####16,17,12,15####纽约囚犯向看守问路后从容走出牢房逃脱####O O O O O O O T T O O O T T T T T T ####NEG
+0####16,17,16,17####纽约囚犯向看守问路后从容走出牢房逃脱####O O O O O O O T T O O O T T T T T T ####NEG
+0####9,12,9,12####女子以慈善项目为名诈骗千万被判无期####O O O O O O O O O T T T T O O O O ####NEG
+1####10,11,15,18####初一女生在学校宿舍内产子后将其抛下5楼####O O O O O O O O O O T T O O O T T T T ####NEG
+1####15,18,10,11####初一女生在学校宿舍内产子后将其抛下5楼####O O O O O O O O O O T T O O O T T T T ####NEG
+0####10,11,10,11####初一女生在学校宿舍内产子后将其抛下5楼####O O O O O O O O O O T T O O O T T T T ####NEG
+0####15,18,15,18####初一女生在学校宿舍内产子后将其抛下5楼####O O O O O O O O O O T T O O O T T T T ####NEG
+1####10,11,13,14####七旬老人在信用社大厅蹭凉被踢伤####O O O O O O O O O O T T O T T ####POS
+1####13,14,10,11####七旬老人在信用社大厅蹭凉被踢伤####O O O O O O O O O O T T O T T ####POS
+0####10,11,10,11####七旬老人在信用社大厅蹭凉被踢伤####O O O O O O O O O O T T O T T ####POS
+0####13,14,13,14####七旬老人在信用社大厅蹭凉被踢伤####O O O O O O O O O O T T O T T ####NEG
+1####7,11,13,16####母亲将6岁女儿抛下14楼后跳楼自杀####O O O O O O O T T T T T O T T T ####NEG
+1####13,16,7,11####母亲将6岁女儿抛下14楼后跳楼自杀####O O O O O O O T T T T T O T T T ####NEG
+0####7,11,7,11####母亲将6岁女儿抛下14楼后跳楼自杀####O O O O O O O T T T T T O T T T ####NEG
+0####13,16,13,16####母亲将6岁女儿抛下14楼后跳楼自杀####O O O O O O O T T T T T O T T T ####NEG
+0####15,16,15,16####男子因同席吃饭者未接受敬酒将其刺死####O O O O O O O O O O O O O O O T T ####NEG
+1####4,7,8,9####入室劫匪砍伤三人逃跑坠楼身亡####O O O O T T T T T T O O O O ####NEG
+1####8,9,4,7####入室劫匪砍伤三人逃跑坠楼身亡####O O O O T T T T T T O O O O ####NEG
+0####4,7,4,7####入室劫匪砍伤三人逃跑坠楼身亡####O O O O T T T T T T O O O O ####NEG
+0####8,9,8,9####入室劫匪砍伤三人逃跑坠楼身亡####O O O O T T T T T T O O O O ####NEG
+0####6,7,8,11####弟弟妹妹共同捐肝救治兄长####O O O O T T T T T T ####POS
+1####8,11,6,7####弟弟妹妹共同捐肝救治兄长####O O O O T T T T T T ####POS
+0####8,11,8,11####弟弟妹妹共同捐肝救治兄长####O O O O T T T T T T ####POS
+0####13,14,13,14####夫妻争吵后孕妻死亡丈夫随后跳楼####O O O O O O O O O O T T ####NEG
+0####4,8,9,14####便衣民警喷射辣椒水抓公交车扒手####O O O O T T T T T T T T T T T ####POS
+1####9,14,4,8####便衣民警喷射辣椒水抓公交车扒手####O O O O T T T T T T T T T T T ####POS
+0####9,14,9,14####便衣民警喷射辣椒水抓公交车扒手####O O O O T T T T T T T T T T T ####POS
+0####9,10,11,15####160余大学生上街擦鞋救脑癌同窗####O O O O O O O O O T T T T T T T ####POS
+1####11,15,9,10####160余大学生上街擦鞋救脑癌同窗####O O O O O O O O O T T T T T T T ####POS
+0####11,15,11,15####160余大学生上街擦鞋救脑癌同窗####O O O O O O O O O T T T T T T T ####POS
+0####4,6,4,6####列车旅客报假案谎称丢失20万被拘7天####O O O O T T T O O O O O O O O O O O ####NEG
+0####12,19,12,19####老板发现被妻子雇人跟踪后敲诈调查公司经理####O O O O O O O O O O O O T T T T T T T T ####NEG
+1####5,10,12,14####13名男子调戏女服务员并砸餐馆####O O O O O T T T T T T O T T T ####NEG
+1####12,14,5,10####13名男子调戏女服务员并砸餐馆####O O O O O T T T T T T O T T T ####NEG
+0####5,10,5,10####13名男子调戏女服务员并砸餐馆####O O O O O T T T T T T O T T T ####NEG
+0####12,14,12,14####13名男子调戏女服务员并砸餐馆####O O O O O T T T T T T O T T T ####NEG
+0####8,14,8,14####两名男子假称看房抢劫单身女房客####O O O O O O O T T T T T T T ####NEG
+0####12,13,12,13####4名男子利用网上银行漏洞诈骗8000万####O O O O O O O O O O O O T T O O O ####NEG
+0####12,13,12,13####中年男子在安徽省政府附近自焚身亡####O O O O O O O O O O O O T T O O ####NEG
+0####4,11,4,11####上百市民配合民警围堵擒贼####O O O T T T T T T T T ####POS
+0####8,14,8,14####市民花2000元救下被贩卖金雕####O O O O O O T T T T T T T ####POS
+0####15,19,15,19####长沙社区干部抓住“黄金4分钟”救垂危老人####O O O O O O O O O O O O O O O T T T T T ####POS
+0####13,17,13,17####高三学生赴约路上被4名男子连砍20刀####O O O O O O O O O O O O O T T T T T ####NEG
+0####4,8,4,8####男子当街叫卖仿真枪，塑料子弹能穿酒瓶####O O O O T T T T T O O O O O O O O ####NEG
+0####10,13,10,13####男子疑因感情纠纷持刀自捅腹部####O O O O O O O O O O T T T T ####NEG
+0####2,16,2,16####妇联开展为贫困“两癌”母亲捐款活动####O O T T T T T T T T T T T T T T T ####POS
+0####8,12,8,12####男子疑因情感纠纷跳下28楼砸进轿车身亡####O O O O O O O O T T T T T O O O O O O ####NEG
+1####4,5,6,10####男子当街吸毒扔砖头袭警获刑####O O O O T T T T T T T O O ####NEG
+1####6,10,4,5####男子当街吸毒扔砖头袭警获刑####O O O O T T T T T T T O O ####NEG
+0####4,5,4,5####男子当街吸毒扔砖头袭警获刑####O O O O T T T T T T T O O ####NEG
+0####6,10,6,10####男子当街吸毒扔砖头袭警获刑####O O O O T T T T T T T O O ####NEG
+0####3,6,7,12####缓刑犯投奔同学偷窃其银行卡####O O O T T T T T T T T T T ####NEG
+1####7,12,3,6####缓刑犯投奔同学偷窃其银行卡####O O O T T T T T T T T T T ####NEG
+0####7,12,7,12####缓刑犯投奔同学偷窃其银行卡####O O O T T T T T T T T T T ####NEG
+0####5,10,5,10####两兄妹非法吸收公众存款3.4亿元获刑####O O O O O T T T T T T O O O O O O O ####NEG
+0####4,10,4,10####小学教师性侵7名女学生被判死刑####O T O O T T T T T T O O O O ####NEG
+0####11,12,11,12####小学老师称能办理上大学诈骗百万被判15年####O O O O O O O O O O T T O O O O O O O ####NEG
+0####4,13,4,13####律师4次出庭3次不带必要文书，庭审1分钟便休庭####O O O T T T T T T T T T T O O O O O O O ####NEG
+0####14,18,14,18####市民交警队门口被撞身亡，交警逼停肇事车####O O O O O O O O O O O O T T T T T ####POS
+1####9,15,2,3####酒后驾车司机遇交警躲进车底3小时####O O T T O O O O O T T T T T T ####NEG
+1####2,3,9,15####酒后驾车司机遇交警躲进车底3小时####O O T T O O O O O T T T T T T ####NEG
+0####9,15,9,15####酒后驾车司机遇交警躲进车底3小时####O O T T O O O O O T T T T T T ####NEG
+0####2,3,2,3####酒后驾车司机遇交警躲进车底3小时####O O T T O O O O O T T T T T T ####NEG
+0####4,11,4,11####男子街头针刺8名女性臀部被判5年####O O O O T T T T T T T T O O O O ####NEG
+0####7,17,7,17####小区业主在楼顶抢建300平方米复式房####O O O O O O O T T T T T T T T T T ####NEG
+0####6,12,6,12####载客摩托司机抢劫强奸女乘客####O T O O O O T T T T T T ####NEG
+1####8,9,14,15####银行职员携82万潜逃22天后自首####O O O O O O O O T T O O T T ####NEG
+1####14,15,8,9####银行职员携82万潜逃22天后自首####O O O O O O O O T T O O T T ####NEG
+0####8,9,8,9####银行职员携82万潜逃22天后自首####O O O O O O O O T T O O T T ####NEG
+0####14,15,14,15####银行职员携82万潜逃22天后自首####O O O O O O O O T T O O T T ####POS
+0####6,8,6,8####萌娃给消防员送月饼：叔叔辛苦了！####O O O O O O T T T O O O O O O ####POS
+0####9,13,9,13####网友发帖称多名商户逗男婴抽烟####O O O O O O O O O T T T T T ####NEG
+0####17,18,17,18####39岁未婚男子恋上16岁外甥女将其杀害####O O O O O O O O O O O O O O O O T T ####NEG
+0####8,15,8,15####体彩中心原副主任私吞体彩网点佣金被控受贿####T T O O O O O O T T T T T T O O O O ####NEG
+0####10,14,10,14####2人拾到内存艳照手机勒索女主人5千元####O T O O O O O O O O T T T T O O O ####NEG
+0####10,13,10,13####89岁老人为革命烈士写回忆录####O O O O O O O O O O T T T T ####POS
+0####2,9,2,9####男子照顾全身瘫痪妻子12年####O T T T T T T T T O O O ####POS
+1####3,11,13,17####副村长驱赶违规停放污水车被打落视网膜####O O O T T T T T T T T T O T T T T T ####POS
+1####13,17,3,11####副村长驱赶违规停放污水车被打落视网膜####O O O T T T T T T T T T O T T T T T ####POS
+0####3,11,3,11####副村长驱赶违规停放污水车被打落视网膜####O O O T T T T T T T T T O T T T T T ####POS
+0####13,17,13,17####副村长驱赶违规停放污水车被打落视网膜####O O O T T T T T T T T T O T T T T T ####NEG
+0####7,9,7,9####老人将巨额遗产赠保安，亲属诉讼请求被驳回####O O O O O O O T T T O O O O O O O O O O ####POS
+0####6,13,6,13####英国5岁女童勇退持刀入室小偷####O O O O O O T T T T T T T T ####POS
+0####9,15,9,15####欲跳楼男子向营救者索要2000元后消失####O O O O O O O O O T T T T T O O O ####NEG
+0####2,8,2,8####高校遗失学生毕业证被判赔5000元####O O T T T T T T T O O O O O O ####NEG
+0####5,10,5,10####伯母用枕头捂死四岁侄儿受审####O O O O O T T T T T T O O ####NEG
+0####2,10,2,10####嫌犯盗挖130岁银杏树被判11年####O O T T T T T T T T T O O O ####NEG
+1####2,3,4,5####男子杀人逃亡12年发福秃顶警察难辨认####O O T T T T O O O O O O O O O O O O ####NEG
+1####4,5,2,3####男子杀人逃亡12年发福秃顶警察难辨认####O O T T T T O O O O O O O O O O O O ####NEG
+0####2,3,2,3####男子杀人逃亡12年发福秃顶警察难辨认####O O T T T T O O O O O O O O O O O O ####NEG
+0####4,5,4,5####男子杀人逃亡12年发福秃顶警察难辨认####O O T T T T O O O O O O O O O O O O ####NEG
+1####6,8,11,12####近百名工人为抢工程持械斗殴致3人受伤####O O O T O O T T O O T T O O O O ####NEG
+0####11,12,6,8####近百名工人为抢工程持械斗殴致3人受伤####O O O T O O T T O O T T O O O O ####NEG
+0####6,8,6,8####近百名工人为抢工程持械斗殴致3人受伤####O O O T O O T T O O T T O O O O ####NEG
+1####17,18,6,9####女子购物时被连刺数刀身亡，凶手割颈自杀####O O O O O O T T T T O O O O O O O T T ####NEG
+1####6,9,17,18####女子购物时被连刺数刀身亡，凶手割颈自杀####O O O O O O T T T T O O O O O O O T T ####NEG
+0####17,18,17,18####女子购物时被连刺数刀身亡，凶手割颈自杀####O O O O O O T T T T O O O O O O O T T ####NEG
+0####6,9,6,9####女子购物时被连刺数刀身亡，凶手割颈自杀####O O O O O O T T T T O O O O O O O T T ####NEG
+0####4,11,4,11####工作人员忘记领取出生证明致52名新生儿成黑户####O O O O T T T T T T T T O O O O O O O O O ####NEG
+1####5,6,7,13####女子与公公通奸毒死丈夫及婆婆####O O O O T T T T T T T T ####NEG
+1####7,13,5,6####女子与公公通奸毒死丈夫及婆婆####O O O O T T T T T T T T ####NEG
+0####5,6,5,6####女子与公公通奸毒死丈夫及婆婆####O O O O T T T T T T T T ####NEG
+0####7,13,7,13####女子与公公通奸毒死丈夫及婆婆####O O O O T T T T T T T T ####NEG
+1####2,5,8,14####男子坐霸王车被拒劫杀出租车司机####O O T T T T O O T T T T T T ####NEG
+1####8,14,2,5####男子坐霸王车被拒劫杀出租车司机####O O T T T T O O T T T T T T ####NEG
+0####2,5,2,5####男子坐霸王车被拒劫杀出租车司机####O O T T T T O O T T T T T T ####NEG
+0####8,14,8,14####男子坐霸王车被拒劫杀出租车司机####O O T T T T O O T T T T T T ####NEG
+0####8,11,8,11####两男子在酒店签单白吃白喝78次被告####O O O O O O O O T T T O O O O O ####NEG
+0####4,11,4,11####超市老板购买80万元假币获刑10年####O O O O T T T T T T T T O O O O ####NEG
+1####3,5,8,10####女孩为救男友空手夺利刃双手肌腱被切断####O O O T T T O O T T T O O O O O O ####POS
+0####8,10,3,5####女孩为救男友空手夺利刃双手肌腱被切断####O O O T T T O O T T T O O O O O O ####POS
+0####3,5,3,5####女孩为救男友空手夺利刃双手肌腱被切断####O O O T T T O O T T T O O O O O O ####POS
+0####14,17,14,17####两名男子不满离职待遇低大厦内点火自焚####O O O O O O O O O O O O O O T T T T ####NEG
+0####9,16,9,16####受贿官员将百万现金藏在家中暖气罩内####O O O O O O O O O T T T T T T T T ####NEG
+0####4,12,4,12####安监局长开执法车发婚宴请柬遭查处####O O O O T T T T T T T T T O O O ####NEG
+0####16,17,18,19####助动车将巡警拖行200多米，市民拦车救人####O O T O O O T T T T T T O O O T T T ####POS
+1####16,17,6,12####助动车将巡警拖行200多米，市民拦车救人####O O T O O O T T T T T T O O O T T T ####POS
+1####18,19,16,17####助动车将巡警拖行200多米，市民拦车救人####O O T O O O T T T T T T O O O T T T ####POS
+1####18,19,6,12####助动车将巡警拖行200多米，市民拦车救人####O O T O O O T T T T T T O O O T T T ####POS
+1####6,12,16,17####助动车将巡警拖行200多米，市民拦车救人####O O T O O O T T T T T T O O O T T T ####POS
+1####6,12,18,19####助动车将巡警拖行200多米，市民拦车救人####O O T O O O T T T T T T O O O T T T ####POS
+0####18,19,18,19####助动车将巡警拖行200多米，市民拦车救人####O O T O O O T T T T T T O O O T T T ####POS
+0####6,12,6,12####助动车将巡警拖行200多米，市民拦车救人####O O T O O O T T T T T T O O O T T T ####NEG
+0####3,9,11,14####3少年藏身飞机储物柜欲偷渡美国，协助者获刑####O O O T T T T T T T O T T T T O O O O O O ####NEG
+1####11,14,3,9####3少年藏身飞机储物柜欲偷渡美国，协助者获刑####O O O T T T T T T T O T T T T O O O O O O ####NEG
+0####11,14,11,14####3少年藏身飞机储物柜欲偷渡美国，协助者获刑####O O O T T T T T T T O T T T T O O O O O O ####NEG
+0####19,21,19,21####数十名新生名字太生僻，老师为避尴尬提前翻字典####O O O O O T O O O O O O O O O O O T T ####POS
+1####4,6,9,13####大学男生一夜情后欲跳火车轻生####O O O T T T T O O T T T T ####NEG
+1####9,13,4,6####大学男生一夜情后欲跳火车轻生####O O O T T T T O O T T T T ####NEG
+0####4,6,4,6####大学男生一夜情后欲跳火车轻生####O O O T T T T O O T T T T ####NEG
+0####9,13,9,13####大学男生一夜情后欲跳火车轻生####O O O T T T T O O T T T T ####NEG
+0####8,11,8,11####女孩与男友分手后跳河自杀####O O O O O O O O T T T T ####NEG
+0####3,4,3,4####副镇长受贿近500万被判15年####O O O T T O O O O O O O O ####NEG
+0####16,19,16,19####男童医院大厅突发抽搐，95后护士抱起狂奔####O O O O O O O O O O O O O O O O T T T T ####POS
+0####8,14,8,14####抢劫团伙1小时内洗劫3辆出租车####O T O O O O O O T T T T T T ####NEG
+1####2,8,9,11####学生帮农民推广橘子出奇招，3分钟吃多少送多少####O O T T T T T T T T T T O O O O O O O O ####POS
+0####9,11,2,8####学生帮农民推广橘子出奇招，3分钟吃多少送多少####O O T T T T T T T T T T O O O O O O O O ####POS
+0####2,8,2,8####学生帮农民推广橘子出奇招，3分钟吃多少送多少####O O T T T T T T T T T T O O O O O O O O ####POS
+0####4,5,6,11####亿万富翁装穷骗取免费药物####O O O O T T T T T T T T ####NEG
+1####6,11,4,5####亿万富翁装穷骗取免费药物####O O O O T T T T T T T T ####NEG
+0####6,11,6,11####亿万富翁装穷骗取免费药物####O O O O T T T T T T T T ####NEG
+0####4,7,8,12####美国家长租用警犬搜子女毒品####O O O O T T T T T T T T T ####POS
+1####8,12,4,7####美国家长租用警犬搜子女毒品####O O O O T T T T T T T T T ####POS
+0####8,12,8,12####美国家长租用警犬搜子女毒品####O O O O T T T T T T T T T ####POS
+0####2,7,8,13####赌徒冒充市委书记骗走寡妇万元####O O T T T T T T T T T T T T ####NEG
+1####8,13,2,7####赌徒冒充市委书记骗走寡妇万元####O O T T T T T T T T T T T T ####NEG
+0####8,13,8,13####赌徒冒充市委书记骗走寡妇万元####O O T T T T T T T T T T T T ####NEG
+0####6,9,6,9####五旬父亲4次割皮救子####O O O O O O T T T T ####POS
+0####13,15,16,19####民工斑马线上被撞身亡，工友筹万元寻肇事者####O O O O O O O O O O O O T T T T T T T ####POS
+1####16,19,13,15####民工斑马线上被撞身亡，工友筹万元寻肇事者####O O O O O O O O O O O O T T T T T T T ####POS
+0####16,19,16,19####民工斑马线上被撞身亡，工友筹万元寻肇事者####O O O O O O O O O O O O T T T T T T T ####POS
+0####9,10,11,16####50名在校学生深夜飙车围堵敲诈市民####O O O O O O O O O T T T T T T T T ####NEG
+1####11,16,9,10####50名在校学生深夜飙车围堵敲诈市民####O O O O O O O O O T T T T T T T T ####NEG
+0####11,16,11,16####50名在校学生深夜飙车围堵敲诈市民####O O O O O O O O O T T T T T T T T ####NEG
+1####2,6,8,12####男子杀害两女子后撞火车自杀####O T T T T T O T T T T ####NEG
+1####8,12,2,6####男子杀害两女子后撞火车自杀####O T T T T T O T T T T ####NEG
+0####2,6,2,6####男子杀害两女子后撞火车自杀####O T T T T T O T T T T ####NEG
+0####8,12,8,12####男子杀害两女子后撞火车自杀####O T T T T T O T T T T ####NEG
+0####5,10,11,15####教授11年捐出30万元资助贫困生####O O O O T T T T T T T T T T T ####POS
+1####11,15,5,10####教授11年捐出30万元资助贫困生####O O O O T T T T T T T T T T T ####POS
+0####11,15,11,15####教授11年捐出30万元资助贫困生####O O O O T T T T T T T T T T T ####POS
+0####14,15,14,15####村民在盖房时发现千枚银元连夜疯抢####O O O O O O O O O O O O O O T T ####NEG
+0####14,15,14,15####男生中考后在校园内被社会青年刺死####O O O O O O O O O O O O O O T T ####NEG
+0####8,9,8,9####陕西城固一名男子醉驾造成6名学生伤亡####O O O O O O O O T T O O O O O O O ####NEG
+0####6,7,12,16####下岗夫妇每天骑车10小时寻失踪儿子####O O O O O O T T O O O O T T T T T ####POS
+1####12,16,6,7####下岗夫妇每天骑车10小时寻失踪儿子####O O O O O O T T O O O O T T T T T ####POS
+0####12,16,12,16####下岗夫妇每天骑车10小时寻失踪儿子####O O O O O O T T O O O O T T T T T ####POS
+0####3,4,3,4####偷车贼行窃时误选警车被当场擒获####O O O T T O O O O O O O O O ####NEG
+0####5,12,5,12####五名村干部私分95万元公款####O O O O O T T T T T T T T ####NEG
+0####8,13,8,13####83岁老人因口角砍死7旬好友####O O O O O O O O T T T T T T ####NEG
+0####10,15,10,15####县人大副主任被指亲自接走打人嫌犯####O T O O O O O O O O T T T T T ####NEG
+0####2,6,9,13####男子冒充黑老大电话敲诈8万元####O O T T T T T O O T T T T T ####NEG
+1####9,13,2,6####男子冒充黑老大电话敲诈8万元####O O T T T T T O O T T T T T ####NEG
+0####9,13,9,13####男子冒充黑老大电话敲诈8万元####O O T T T T T O O T T T T T ####NEG
+0####5,10,5,10####40岁男子刀砍同居女友出庭受审####O O O O O T T T T T T O O O O ####NEG
+0####9,12,9,12####社会青年将学校门卫围殴致死####O O O O O O O O O T T T T ####NEG
+0####4,9,4,9####民警及时找回走失小孩赢好评####O O O O T T T T T T O O O ####POS
+0####9,14,9,14####两女教师向考生家长卖高考作弊器####O O O O O T O O O T T T T T ####NEG
+1####8,10,11,14####打工男子遇窃后为补损失残杀4人并辱尸####O O O O O O O O T T T T T T T O T T ####NEG
+1####8,10,16,17####打工男子遇窃后为补损失残杀4人并辱尸####O O O O O O O O T T T T T T T O T T ####NEG
+0####11,14,8,10####打工男子遇窃后为补损失残杀4人并辱尸####O O O O O O O O T T T T T T T O T T ####NEG
+1####11,14,16,17####打工男子遇窃后为补损失残杀4人并辱尸####O O O O O O O O T T T T T T T O T T ####NEG
+0####16,17,8,10####打工男子遇窃后为补损失残杀4人并辱尸####O O O O O O O O T T T T T T T O T T ####NEG
+1####16,17,11,14####打工男子遇窃后为补损失残杀4人并辱尸####O O O O O O O O T T T T T T T O T T ####NEG
+0####8,10,8,10####打工男子遇窃后为补损失残杀4人并辱尸####O O O O O O O O T T T T T T T O T T ####NEG
+0####3,12,3,12####派出所返还上万元被盗摩托车受好评####O O O T T T T T T T T T T O O O ####POS
+0####5,17,5,17####16岁少年率团伙盗窃百余辆电动自行车####O O O O O T T T T T T T T T T T T T ####NEG
+0####5,12,5,12####男子退休后当上色情网站版主####O O O O O T T T T T T T T ####NEG
+0####10,16,10,16####3名女子谎称作法消灾骗走老太万余元####O O O O O O O O O O T T T T T T T ####NEG
+1####4,9,10,13####被查司机抢回假行驶证吞进肚子####O O O O T T T T T T T T T T ####NEG
+1####10,13,4,9####被查司机抢回假行驶证吞进肚子####O O O O T T T T T T T T T T ####NEG
+0####4,9,4,9####被查司机抢回假行驶证吞进肚子####O O O O T T T T T T T T T T ####NEG
+0####10,13,10,13####被查司机抢回假行驶证吞进肚子####O O O O T T T T T T T T T T ####NEG
+1####9,12,16,18####80后女孩痴迷购物欠债百万，父母卖房产还债####O O O O O O O O O T T T T O O O T T T T ####POS
+1####9,12,19,20####80后女孩痴迷购物欠债百万，父母卖房产还债####O O O O O O O O O T T T T O O O T T T T ####POS
+1####16,18,9,12####80后女孩痴迷购物欠债百万，父母卖房产还债####O O O O O O O O O T T T T O O O T T T T ####POS
+0####16,18,19,20####80后女孩痴迷购物欠债百万，父母卖房产还债####O O O O O O O O O T T T T O O O T T T T ####POS
+1####19,20,9,12####80后女孩痴迷购物欠债百万，父母卖房产还债####O O O O O O O O O T T T T O O O T T T T ####POS
+1####19,20,16,18####80后女孩痴迷购物欠债百万，父母卖房产还债####O O O O O O O O O T T T T O O O T T T T ####POS
+0####9,12,9,12####80后女孩痴迷购物欠债百万，父母卖房产还债####O O O O O O O O O T T T T O O O T T T T ####NEG
+0####19,20,19,20####80后女孩痴迷购物欠债百万，父母卖房产还债####O O O O O O O O O T T T T O O O T T T T ####POS
+0####7,8,7,8####团伙趁人锻炼时盗车价值200多万####O O O O O O O T T O O O O O O ####NEG
+0####11,12,11,12####女医生在停产工厂医务室坚守14年####O O O O O O O O O O T T O O O ####POS
+0####12,15,12,15####22岁女子因仇恨贫穷父母纵火烧家####O O O O O O O O O O O T T T T ####NEG
+0####8,11,12,15####社会青年手持钢管冲进教室殴打老师####O O O O O O O O T T T T T T T T ####NEG
+1####12,15,8,11####社会青年手持钢管冲进教室殴打老师####O O O O O O O O T T T T T T T T ####NEG
+0####12,15,12,15####社会青年手持钢管冲进教室殴打老师####O O O O O O O O T T T T T T T T ####NEG
+0####8,9,8,9####女子称与领导熟识诈骗近40人约500万元####O O O O O O O O T T O O O O O O O O ####NEG
+0####6,14,6,14####车站人员热心助走失小孩找到家长####O O O O O O T T T T T T T T T ####POS
+0####6,13,6,13####市民见义勇为围追堵截持刀劫匪####O O O O O O T T T T T T T T ####POS
+0####11,14,11,14####夫妻重男轻女将满月女婴丢进水塘####O O O O O O O O O O T T T T ####NEG
+1####3,12,13,14####女出纳挪用580万国库资金自首####O O O T T T T T T T T T T T T ####NEG
+1####13,14,3,12####女出纳挪用580万国库资金自首####O O O T T T T T T T T T T T T ####NEG
+0####3,12,3,12####女出纳挪用580万国库资金自首####O O O T T T T T T T T T T T T ####NEG
+0####13,14,13,14####女出纳挪用580万国库资金自首####O O O T T T T T T T T T T T T ####POS
+0####8,14,8,14####赌徒输钱后持菜刀杀死游戏厅老板####O O O O O O O O T T T T T T T ####NEG
+0####9,15,9,15####银行柜台人员两年内取走储户81万####O O O O O O O O O T T T T T T T ####NEG
+0####10,13,10,13####保洁员捡到2万现金后归还失主####O O O O O O O O O O T T T T ####POS
+1####3,6,7,12####男子为结婚买房谎报炸弹警情敲诈超市150万####O O O T T T T T T T T T T T T T T O O O O ####NEG
+1####3,6,13,16####男子为结婚买房谎报炸弹警情敲诈超市150万####O O O T T T T T T T T T T T T T T O O O O ####NEG
+1####7,12,3,6####男子为结婚买房谎报炸弹警情敲诈超市150万####O O O T T T T T T T T T T T T T T O O O O ####NEG
+0####7,12,13,16####男子为结婚买房谎报炸弹警情敲诈超市150万####O O O T T T T T T T T T T T T T T O O O O ####NEG
+0####13,16,3,6####男子为结婚买房谎报炸弹警情敲诈超市150万####O O O T T T T T T T T T T T T T T O O O O ####NEG
+1####13,16,7,12####男子为结婚买房谎报炸弹警情敲诈超市150万####O O O T T T T T T T T T T T T T T O O O O ####NEG
+0####3,6,3,6####男子为结婚买房谎报炸弹警情敲诈超市150万####O O O T T T T T T T T T T T T T T O O O O ####NEG
+0####8,13,8,13####丈夫怨妻子回娘家火烧岳父房子####O O O O T O O O T T T T T ####NEG
+0####2,6,7,8####女子盗卖经适房诈骗1400万一审被判无期####O O T T T T T T T O O O O O O O O O O ####NEG
+1####7,8,2,6####女子盗卖经适房诈骗1400万一审被判无期####O O T T T T T T T O O O O O O O O O O ####NEG
+0####7,8,7,8####女子盗卖经适房诈骗1400万一审被判无期####O O T T T T T T T O O O O O O O O O O ####NEG
+1####2,7,8,9####男子打死欠债工友潜逃20年后发短信自首####O O T T T T T T T T O O O O T T T T T ####NEG
+1####2,7,14,18####男子打死欠债工友潜逃20年后发短信自首####O O T T T T T T T T O O O O T T T T T ####NEG
+1####8,9,2,7####男子打死欠债工友潜逃20年后发短信自首####O O T T T T T T T T O O O O T T T T T ####NEG
+1####8,9,14,18####男子打死欠债工友潜逃20年后发短信自首####O O T T T T T T T T O O O O T T T T T ####NEG
+1####14,18,2,7####男子打死欠债工友潜逃20年后发短信自首####O O T T T T T T T T O O O O T T T T T ####NEG
+1####14,18,8,9####男子打死欠债工友潜逃20年后发短信自首####O O T T T T T T T T O O O O T T T T T ####NEG
+0####2,7,2,7####男子打死欠债工友潜逃20年后发短信自首####O O T T T T T T T T O O O O T T T T T ####NEG
+0####8,9,8,9####男子打死欠债工友潜逃20年后发短信自首####O O T T T T T T T T O O O O T T T T T ####NEG
+0####14,18,14,18####男子打死欠债工友潜逃20年后发短信自首####O O T T T T T T T T O O O O T T T T T ####POS
+0####11,14,11,14####醉汉深夜路边酣睡，民警送其回家####O O O O O O O O O O O T T T T ####POS
+0####9,13,9,13####中心小学为留守儿童过集体生日####O O O O O O O O O T T T T T ####POS
+0####13,18,13,18####广西北海边检站战士十年义务照顾拾荒老人####O O O O O O O O O O O O O T T T T T T ####POS
+0####10,11,12,19####水利系统党员积极自愿捐款支持疫情防控工作####O O O O O O O O O O T T T T T T T T T T ####POS
+1####12,19,10,11####水利系统党员积极自愿捐款支持疫情防控工作####O O O O O O O O O O T T T T T T T T T T ####POS
+0####12,19,12,19####水利系统党员积极自愿捐款支持疫情防控工作####O O O O O O O O O O T T T T T T T T T T ####POS
+0####9,14,9,14####女子酒后驾驶被拦后连咬3名交警####O O O O O O O O T T T T T T ####NEG
+0####9,11,9,11####公交女司机等红灯时看杂志####O O O O O O O O O T T T ####NEG
+0####5,7,8,14####出租车司机摁喇叭寻5万现金失主####O O O O O T T T T T T T T T T ####POS
+1####8,14,5,7####出租车司机摁喇叭寻5万现金失主####O O O O O T T T T T T T T T T ####POS
+0####8,14,8,14####出租车司机摁喇叭寻5万现金失主####O O O O O T T T T T T T T T T ####POS
+1####7,10,13,14####两名工人辞职后追砍老板数刀逃逸####O O O O O O O T T T T O O T T ####NEG
+1####13,14,7,10####两名工人辞职后追砍老板数刀逃逸####O O O O O O O T T T T O O T T ####NEG
+0####7,10,7,10####两名工人辞职后追砍老板数刀逃逸####O O O O O O O T T T T O O T T ####NEG
+0####13,14,13,14####两名工人辞职后追砍老板数刀逃逸####O O O O O O O T T T T O O T T ####NEG
+0####2,6,2,6####男子泼汽油自焚烧伤面积达90%####O O T T T T T O O O O O O O O ####NEG
+0####4,10,4,10####男子酒后强奸精神病女子被判四年####O T O O T T T T T T O O O O ####NEG
+1####13,14,15,16####大一女生考高等数学33分钟退场跳楼身亡####O O O O O O O O O O O O T T T T O O ####NEG
+1####15,16,13,14####大一女生考高等数学33分钟退场跳楼身亡####O O O O O O O O O O O O T T T T O O ####NEG
+0####13,14,13,14####大一女生考高等数学33分钟退场跳楼身亡####O O O O O O O O O O O O T T T T O O ####NEG
+0####15,16,15,16####大一女生考高等数学33分钟退场跳楼身亡####O O O O O O O O O O O O T T T T O O ####NEG
+0####12,16,12,16####小伙嫌火车站话吧收费太高捅死业务员####O O O O O O O O O O O O T T T T T ####NEG
+0####8,13,8,13####爱善天使一片诚意捐助防疫物资疫情不减温情####O O O O O O O O T T T T T T O O O O ####POS
+0####13,15,13,15####男子因被嘲笑单身将朋友女儿扔粪坑####O O O O O O O O O O O O O T T T ####NEG
+1####5,7,9,10####无证醉驾者撞死人后逃逸获刑5年半####O O O O O T T T O T T O O O O O ####NEG
+1####9,10,5,7####无证醉驾者撞死人后逃逸获刑5年半####O O O O O T T T O T T O O O O O ####NEG
+0####5,7,5,7####无证醉驾者撞死人后逃逸获刑5年半####O O O O O T T T O T T O O O O O ####NEG
+0####9,10,9,10####无证醉驾者撞死人后逃逸获刑5年半####O O O O O T T T O T T O O O O O ####NEG
+0####14,15,14,15####初中女生因谈恋爱被批评从4楼跳下####O O O O O O O O O O O O O O T T ####NEG
+0####4,9,10,14####5名男子殴打拘禁老乡威逼其传销####O O O O T T T T T T T T T T T ####NEG
+1####10,14,4,9####5名男子殴打拘禁老乡威逼其传销####O O O O T T T T T T T T T T T ####NEG
+0####10,14,10,14####5名男子殴打拘禁老乡威逼其传销####O O O O T T T T T T T T T T T ####NEG
+0####9,17,9,17####投资顾问公司5高管倒卖1.6亿原始股受审####O O O O O O O O O T T T T T T T T T O O ####NEG
+0####12,17,12,17####上百名学生手持纸枪操场上体验阅兵感受####O O O O O O O O O O O T T T T T T ####POS
+0####9,10,11,13####派出所民警巡逻途中灭火保平安####O O O O O O O O O T T T T T ####POS
+1####11,13,9,10####派出所民警巡逻途中灭火保平安####O O O O O O O O O T T T T T ####POS
+0####11,13,11,13####派出所民警巡逻途中灭火保平安####O O O O O O O O O T T T T T ####POS
+0####9,16,9,16####83岁志愿军老战士寻找机枪连老搭档####O O O O O O T O O T T T T T T T ####POS
+0####10,12,10,12####女学生谎称有军校指标骗老师4万元####O O O O O O O O O O T T T O O O ####NEG
+1####4,5,7,12####警车司机肇事后殴打货车司机####O T T T T T O T T T ####NEG
+1####7,12,4,5####警车司机肇事后殴打货车司机####O T T T T T O T T T ####NEG
+0####4,5,4,5####警车司机肇事后殴打货车司机####O T T T T T O T T T ####NEG
+0####7,12,7,12####警车司机肇事后殴打货车司机####O T T T T T O T T T ####NEG
+0####13,16,17,22####青岛病危女童转院进京，交警接力护送打开生命通道####O O O O O O O O O O O O O T T T T T T T T T T ####POS
+1####17,22,13,16####青岛病危女童转院进京，交警接力护送打开生命通道####O O O O O O O O O O O O O T T T T T T T T T T ####POS
+0####17,22,17,22####青岛病危女童转院进京，交警接力护送打开生命通道####O O O O O O O O O O O O O T T T T T T T T T T ####POS
+0####2,7,10,11####民警开枪击伤抢匪将其擒获####O O T T T T T T O O T T ####POS
+1####10,11,2,7####民警开枪击伤抢匪将其擒获####O O T T T T T T O O T T ####POS
+0####10,11,10,11####民警开枪击伤抢匪将其擒获####O O T T T T T T O O T T ####POS
+0####16,17,16,17####民居门前被喷上杀字，疑为拆迁公司逼迁####O O O O O O O O O O O O O T O O T ####NEG
+1####4,11,18,21####初二学生雇凶打死同班同学，当地公安局拒绝采访####O O T O T T T T T T O O O O O O T T T T ####NEG
+1####18,21,4,11####初二学生雇凶打死同班同学，当地公安局拒绝采访####O O T O T T T T T T O O O O O O T T T T ####NEG
+0####4,11,4,11####初二学生雇凶打死同班同学，当地公安局拒绝采访####O O T O T T T T T T O O O O O O T T T T ####NEG
+0####18,21,18,21####初二学生雇凶打死同班同学，当地公安局拒绝采访####O O T O T T T T T T O O O O O O T T T T ####POS
+1####2,3,11,12####疑犯回帖谎称购车将车主杀死后勒索家属####O O T T O O O O O O T T O T T T T ####NEG
+0####2,3,14,17####疑犯回帖谎称购车将车主杀死后勒索家属####O O T T O O O O O O T T O T T T T ####NEG
+1####11,12,2,3####疑犯回帖谎称购车将车主杀死后勒索家属####O O T T O O O O O O T T O T T T T ####NEG
+1####11,12,14,17####疑犯回帖谎称购车将车主杀死后勒索家属####O O T T O O O O O O T T O T T T T ####NEG
+1####14,17,2,3####疑犯回帖谎称购车将车主杀死后勒索家属####O O T T O O O O O O T T O T T T T ####NEG
+1####14,17,11,12####疑犯回帖谎称购车将车主杀死后勒索家属####O O T T O O O O O O T T O T T T T ####NEG
+0####11,12,11,12####疑犯回帖谎称购车将车主杀死后勒索家属####O O T T O O O O O O T T O T T T T ####NEG
+0####14,17,14,17####疑犯回帖谎称购车将车主杀死后勒索家属####O O T T O O O O O O T T O T T T T ####NEG
+1####3,4,13,14####女出纳贪污205万逃亡期间重婚被判15年####O O O T T O O O O O O O O T T O O O O ####NEG
+1####13,14,3,4####女出纳贪污205万逃亡期间重婚被判15年####O O O T T O O O O O O O O T T O O O O ####NEG
+0####3,4,3,4####女出纳贪污205万逃亡期间重婚被判15年####O O O T T O O O O O O O O T T O O O O ####NEG
+0####13,14,13,14####女出纳贪污205万逃亡期间重婚被判15年####O O O T T O O O O O O O O T T O O O O ####NEG
+0####5,7,5,7####货柜车疑因闯红灯撞上公交车22人受伤####O O O O O T T T O O O O O O O O ####NEG
+0####4,7,8,15####铁路职工冒充处长骗12万元培训费####O O O O T T T T T T T T T T T T ####NEG
+1####8,15,4,7####铁路职工冒充处长骗12万元培训费####O O O O T T T T T T T T T T T T ####NEG
+0####8,15,8,15####铁路职工冒充处长骗12万元培训费####O O O O T T T T T T T T T T T T ####NEG
+0####9,12,15,16####少年被同学扇耳光后买水果刀将其刺死####O O O O O T T T O T T T T O O T T ####NEG
+1####9,12,5,7####少年被同学扇耳光后买水果刀将其刺死####O O O O O T T T O T T T T O O T T ####NEG
+1####15,16,9,12####少年被同学扇耳光后买水果刀将其刺死####O O O O O T T T O T T T T O O T T ####NEG
+1####15,16,5,7####少年被同学扇耳光后买水果刀将其刺死####O O O O O T T T O T T T T O O T T ####NEG
+1####5,7,9,12####少年被同学扇耳光后买水果刀将其刺死####O O O O O T T T O T T T T O O T T ####NEG
+1####5,7,15,16####少年被同学扇耳光后买水果刀将其刺死####O O O O O T T T O T T T T O O T T ####NEG
+0####15,16,15,16####少年被同学扇耳光后买水果刀将其刺死####O O O O O T T T O T T T T O O T T ####NEG
+0####5,7,5,7####少年被同学扇耳光后买水果刀将其刺死####O O O O O T T T O T T T T O O T T ####NEG
+0####2,4,11,18####刑警扮劫匪上演黑吃黑，智擒6名仓库大盗####O O T T T O O O O O T T T T T T T T ####POS
+1####11,18,2,4####刑警扮劫匪上演黑吃黑，智擒6名仓库大盗####O O T T T O O O O O T T T T T T T T ####POS
+0####11,18,11,18####刑警扮劫匪上演黑吃黑，智擒6名仓库大盗####O O T T T O O O O O T T T T T T T T ####POS
+1####2,5,6,11####4人劫杀的哥制造车祸假象被抓####O O T T T T T T T T T T O O ####NEG
+1####6,11,2,5####4人劫杀的哥制造车祸假象被抓####O O T T T T T T T T T T O O ####NEG
+0####2,5,2,5####4人劫杀的哥制造车祸假象被抓####O O T T T T T T T T T T O O ####NEG
+0####6,11,6,11####4人劫杀的哥制造车祸假象被抓####O O T T T T T T T T T T O O ####NEG
+0####9,15,9,15####女校医因午休遭打扰殴打9名小学生被停职####O O O O O O O T O T T T T T T O O O ####NEG
+0####2,10,2,10####丈夫照顾患精神分裂妻子30年####O O T T T T T T T T T O O O ####POS
+0####15,16,15,16####初一男生上学途中失踪，父母艰难寻子####O O O O O O O O O O O O O O O T T ####POS
+0####12,14,12,14####大学生和公务员为黄色网站当义工被抓获####O O O O O O O O O O O O T T T O O O ####NEG
+0####11,17,11,17####唐山迁安两位“兵哥哥”勇救三名落水者####O O O O O O O O O O T T T T T T T ####POS
+0####10,14,10,14####巴溪湾小学向中心小学捐爱心图书####O O O O O O O T T T T T ####POS
+0####2,10,2,10####骗子叫卖一次性模型手机，使用半小时功能即消失####O O T T T T T T T T T O O O O O O O O O O O ####NEG
+0####3,7,3,7####大学生结人梯救人3人溺亡，将申报见义勇为集体####O O O T T T T O O O O O O O O O O O O O ####POS
+0####9,12,9,12####男子疑持枪在数码城抢走手机####O O O O O O O O O T T T T ####NEG
+0####10,11,10,11####中年妇女携10发子弹登机被查####O O O O O O O O O O T T O O ####NEG
+0####4,10,11,17####3名男子设局骗出女网友卖给歌厅当小姐####O O O O T T T T T T T T T T T T T T ####NEG
+1####11,17,4,10####3名男子设局骗出女网友卖给歌厅当小姐####O O O O T T T T T T T T T T T T T T ####NEG
+0####11,17,11,17####3名男子设局骗出女网友卖给歌厅当小姐####O O O O T T T T T T T T T T T T T T ####NEG
+0####11,14,11,14####司机看错指路牌高速路上掉头逆行####O O O O O O O O O O T T T T ####NEG
+0####2,5,6,9####男子伪造身份骗女友家50多万挥霍####O O T T T T T T T T O O O O T T ####NEG
+1####2,5,14,15####男子伪造身份骗女友家50多万挥霍####O O T T T T T T T T O O O O T T ####NEG
+1####6,9,2,5####男子伪造身份骗女友家50多万挥霍####O O T T T T T T T T O O O O T T ####NEG
+0####6,9,14,15####男子伪造身份骗女友家50多万挥霍####O O T T T T T T T T O O O O T T ####NEG
+1####14,15,2,5####男子伪造身份骗女友家50多万挥霍####O O T T T T T T T T O O O O T T ####NEG
+1####14,15,6,9####男子伪造身份骗女友家50多万挥霍####O O T T T T T T T T O O O O T T ####NEG
+0####14,15,14,15####男子伪造身份骗女友家50多万挥霍####O O T T T T T T T T O O O O T T ####NEG
+0####2,7,8,11####男子步行3万公里宣传献血并献3.2万毫升血####O O T T T T T T T T T T O T T T T ####POS
+1####2,7,13,20####男子步行3万公里宣传献血并献3.2万毫升血####O O T T T T T T T T T T O T T T T ####POS
+1####8,11,2,7####男子步行3万公里宣传献血并献3.2万毫升血####O O T T T T T T T T T T O T T T T ####POS
+1####8,11,13,20####男子步行3万公里宣传献血并献3.2万毫升血####O O T T T T T T T T T T O T T T T ####POS
+1####13,20,2,7####男子步行3万公里宣传献血并献3.2万毫升血####O O T T T T T T T T T T O T T T T ####POS
+1####13,20,8,11####男子步行3万公里宣传献血并献3.2万毫升血####O O T T T T T T T T T T O T T T T ####POS
+0####8,11,8,11####男子步行3万公里宣传献血并献3.2万毫升血####O O T T T T T T T T T T O T T T T ####POS
+0####13,20,13,20####男子步行3万公里宣传献血并献3.2万毫升血####O O T T T T T T T T T T O T T T T ####POS
+0####8,11,8,11####中国工人在俄罗斯杀害同胞被判10年监禁####O O O O O O O O T T T T O O O O O O O ####NEG
+0####2,6,7,12####小偷躲过摄像头夜盗学生宿舍####O O T T T T T T T T T T T ####NEG
+1####7,12,2,6####小偷躲过摄像头夜盗学生宿舍####O O T T T T T T T T T T T ####NEG
+0####7,12,7,12####小偷躲过摄像头夜盗学生宿舍####O O T T T T T T T T T T T ####NEG
+0####8,16,8,16####老板以高利息为饵骗取40人1千余万####O O O O O O O O T T T T T T T T T ####NEG
+0####4,7,4,7####盗墓老手贿赂工头随时瞄准新工地####O O O O T T T T O O O O O O ####NEG
+0####2,8,2,8####惯偷盗窃11所中学101人财物获刑####O O T T T T T T O O O O O O ####NEG
+1####9,10,15,19####男子穿城管制服当街撒尿，被拍后追打拍照人####O O O O O O O O O T T O O T O T T T T ####NEG
+1####15,19,9,10####男子穿城管制服当街撒尿，被拍后追打拍照人####O O O O O O O O O T T O O T O T T T T ####NEG
+0####9,10,9,10####男子穿城管制服当街撒尿，被拍后追打拍照人####O O O O O O O O O T T O O T O T T T T ####NEG
+0####15,19,15,19####男子穿城管制服当街撒尿，被拍后追打拍照人####O O O O O O O O O T T O O T O T T T T ####NEG
+1####6,7,16,21####两名少年闹市抢劫，为达目的用铁棍敲受害人脑袋####O O O O O O T T O O O O O O O O T T T T T T ####NEG
+0####16,21,6,7####两名少年闹市抢劫，为达目的用铁棍敲受害人脑袋####O O O O O O T T O O O O O O O O T T T T T T ####NEG
+0####6,7,6,7####两名少年闹市抢劫，为达目的用铁棍敲受害人脑袋####O O O O O O T T O O O O O O O O T T T T T T ####NEG
+0####2,4,2,4####小贩刺城管致2死1重伤被判死刑####O O T T T O O O O O O O O O ####NEG
+1####13,14,15,16####两名男子徒步3天3夜至上海抢劫杀人获死刑####O O O O O O O O O O O O T T T T O O O ####NEG
+1####15,16,13,14####两名男子徒步3天3夜至上海抢劫杀人获死刑####O O O O O O O O O O O O T T T T O O O ####NEG
+0####13,14,13,14####两名男子徒步3天3夜至上海抢劫杀人获死刑####O O O O O O O O O O O O T T T T O O O ####NEG
+0####15,16,15,16####两名男子徒步3天3夜至上海抢劫杀人获死刑####O O O O O O O O O O O O T T T T O O O ####NEG
+0####9,12,9,12####女子因琐事吵架失手捅死丈夫获缓刑####O O O O O O O O O T T T T O O O ####NEG
+0####9,10,9,10####北京看守所一名嫌犯绝食49天后死亡####O O O O O O O O O T T O O O O O O ####NEG
+1####4,5,8,11####司机醉酒驾车闯祸打骂警察被制服####O O O O T T O O T T T T O O O ####NEG
+1####8,11,4,5####司机醉酒驾车闯祸打骂警察被制服####O O O O T T O O T T T T O O O ####NEG
+0####4,5,4,5####司机醉酒驾车闯祸打骂警察被制服####O O O O T T O O T T T T O O O ####NEG
+0####8,11,8,11####司机醉酒驾车闯祸打骂警察被制服####O O O O T T O O T T T T O O O ####NEG
+0####6,13,6,13####退休警员闹市偷拍女子裙底春光被处理####O O O O O O T T T T T T T T O O O ####NEG
+0####16,19,16,19####走失老人摔倒，大湖派出所民警及时出警救助####O O O O O O O O O O T O O T O O T T ####POS
+0####7,8,9,14####18岁流浪小伙跳河救出轻生男子感动市民####O O O O O O O T T T T T T T T O O O O ####POS
+1####9,14,7,8####18岁流浪小伙跳河救出轻生男子感动市民####O O O O O O O T T T T T T T T O O O O ####POS
+0####9,14,9,14####18岁流浪小伙跳河救出轻生男子感动市民####O O O O O O O T T T T T T T T O O O O ####POS
+0####2,3,8,13####男子应聘当搬运工盗窃物流公司16万财物####O O T T O O O O T T T T T T O O O O ####NEG
+1####8,13,2,3####男子应聘当搬运工盗窃物流公司16万财物####O O T T O O O O T T T T T T O O O O ####NEG
+0####8,13,8,13####男子应聘当搬运工盗窃物流公司16万财物####O O T T O O O O T T T T T T O O O O ####NEG
+0####2,3,4,15####网友发帖制造万人殴打百名警察谣言被拘####O O T T T T T T T T T T T T T T O O ####NEG
+1####4,15,2,3####网友发帖制造万人殴打百名警察谣言被拘####O O T T T T T T T T T T T T T T O O ####NEG
+0####4,15,4,15####网友发帖制造万人殴打百名警察谣言被拘####O O T T T T T T T T T T T T T T O O ####NEG
+0####5,6,7,8####幼儿园爱心义卖募款帮扶贫困户####O O O O O T T T T T T T T T ####POS
+1####5,6,9,13####幼儿园爱心义卖募款帮扶贫困户####O O O O O T T T T T T T T T ####POS
+1####7,8,5,6####幼儿园爱心义卖募款帮扶贫困户####O O O O O T T T T T T T T T ####POS
+0####7,8,9,13####幼儿园爱心义卖募款帮扶贫困户####O O O O O T T T T T T T T T ####POS
+1####9,13,5,6####幼儿园爱心义卖募款帮扶贫困户####O O O O O T T T T T T T T T ####POS
+1####9,13,7,8####幼儿园爱心义卖募款帮扶贫困户####O O O O O T T T T T T T T T ####POS
+0####9,13,9,13####幼儿园爱心义卖募款帮扶贫困户####O O O O O T T T T T T T T T ####POS
+0####5,8,9,15####险！消防员飞身挡刀救下被劫持男童####O O O O O T T T T T T T T T T T ####POS
+1####9,15,5,8####险！消防员飞身挡刀救下被劫持男童####O O O O O T T T T T T T T T T T ####POS
+0####9,15,9,15####险！消防员飞身挡刀救下被劫持男童####O O O O O T T T T T T T T T T T ####POS
+1####4,7,11,14####女子酒后驾车逆行被查处掌掴民警获刑####O O O O T T T T O O O T T T T O O ####NEG
+1####11,14,4,7####女子酒后驾车逆行被查处掌掴民警获刑####O O O O T T T T O O O T T T T O O ####NEG
+0####4,7,4,7####女子酒后驾车逆行被查处掌掴民警获刑####O O O O T T T T O O O T T T T O O ####NEG
+0####11,14,11,14####女子酒后驾车逆行被查处掌掴民警获刑####O O O O T T T T O O O T T T T O O ####NEG
+1####4,7,11,12####男子当街刺伤女友后挥刀自残####O O O O T T T T O O O T T ####NEG
+1####11,12,4,7####男子当街刺伤女友后挥刀自残####O O O O T T T T O O O T T ####NEG
+0####4,7,4,7####男子当街刺伤女友后挥刀自残####O O O O T T T T O O O T T ####NEG
+0####11,12,11,12####男子当街刺伤女友后挥刀自残####O O O O T T T T O O O T T ####NEG
+0####7,10,14,15####男子将6岁侄子绑架撕票后短信勒索####O O O O O O T T T T O O O T T ####NEG
+1####14,15,7,10####男子将6岁侄子绑架撕票后短信勒索####O O O O O O T T T T O O O T T ####NEG
+0####14,15,14,15####男子将6岁侄子绑架撕票后短信勒索####O O O O O O T T T T O O O T T ####NEG
+1####2,3,17,18####老伴割腕身亡，103岁丈夫悲伤过度跳江####O O T T O O O O O O O O O O O O O T T ####NEG
+1####17,18,2,3####老伴割腕身亡，103岁丈夫悲伤过度跳江####O O T T O O O O O O O O O O O O O T T ####NEG
+0####2,3,2,3####老伴割腕身亡，103岁丈夫悲伤过度跳江####O O T T O O O O O O O O O O O O O T T ####NEG
+0####17,18,17,18####老伴割腕身亡，103岁丈夫悲伤过度跳江####O O T T O O O O O O O O O O O O O T T ####NEG
+0####8,12,8,12####假记者团伙在多省勒索封口费被抓获####O O O O O O O O T T T T T O O O ####NEG
+0####10,14,10,14####60岁女儿将八旬老母殴打成重伤不治身亡####O O O O O O O O O O T T T T T O O O O ####NEG
+1####4,5,6,9####男子驾车撞人追杀女友后自尽####O O O O T T T T T T O T T ####NEG
+1####4,5,11,12####男子驾车撞人追杀女友后自尽####O O O O T T T T T T O T T ####NEG
+1####6,9,4,5####男子驾车撞人追杀女友后自尽####O O O O T T T T T T O T T ####NEG
+1####6,9,11,12####男子驾车撞人追杀女友后自尽####O O O O T T T T T T O T T ####NEG
+1####11,12,4,5####男子驾车撞人追杀女友后自尽####O O O O T T T T T T O T T ####NEG
+1####11,12,6,9####男子驾车撞人追杀女友后自尽####O O O O T T T T T T O T T ####NEG
+0####4,5,4,5####男子驾车撞人追杀女友后自尽####O O O O T T T T T T O T T ####NEG
+0####6,9,6,9####男子驾车撞人追杀女友后自尽####O O O O T T T T T T O T T ####NEG
+0####11,12,11,12####男子驾车撞人追杀女友后自尽####O O O O T T T T T T O T T ####NEG
+0####5,8,5,8####警察向同事放高利贷被判缓刑####O O O O O T T T T O O O O ####NEG
+1####8,9,11,15####2名青年立交桥下嫖娼后劫杀卖淫女####O O O O O O O O T T O T T T T T ####NEG
+1####11,15,8,9####2名青年立交桥下嫖娼后劫杀卖淫女####O O O O O O O O T T O T T T T T ####NEG
+0####8,9,8,9####2名青年立交桥下嫖娼后劫杀卖淫女####O O O O O O O O T T O T T T T T ####NEG
+0####11,15,11,15####2名青年立交桥下嫖娼后劫杀卖淫女####O O O O O O O O T T O T T T T T ####NEG
+0####2,8,9,14####男子伪造义务支教证诈骗师生钱财####O O T T T T T T T T T T T T T ####NEG
+1####9,14,2,8####男子伪造义务支教证诈骗师生钱财####O O T T T T T T T T T T T T T ####NEG
+0####9,14,9,14####男子伪造义务支教证诈骗师生钱财####O O T T T T T T T T T T T T T ####NEG
+1####4,5,11,14####2名男子抢劫夜总会女子强拍裸照####O O O O T T O O O O T T T T ####NEG
+1####11,14,4,5####2名男子抢劫夜总会女子强拍裸照####O O O O T T O O O O T T T T ####NEG
+0####4,5,4,5####2名男子抢劫夜总会女子强拍裸照####O O O O T T O O O O T T T T ####NEG
+0####11,14,11,14####2名男子抢劫夜总会女子强拍裸照####O O O O T T O O O O T T T T ####NEG
+0####2,5,2,5####白宫致信感谢北京3名出租车司机####O O T T T T O O O O O O O O O ####POS
+0####7,15,7,15####派出所民警及时救出被困电梯的群众####O T O O O O O T T T T T T T T ####POS
+0####12,14,12,14####钱包遗失出租车，民警全力帮找回####O O O O O O O O O O O O T T T ####POS
+0####13,14,13,14####算命先生不满被查将城管手指咬破####O O O O O O O O O O O O O T T ####NEG
+0####9,14,9,14####八旬老人给盐城灾区捐万元防老钱，留名"共产党员"####O O T O O O O O O T T T T T O O O O O O O O ####POS
+0####8,11,8,11####吸毒者持霰弹猎枪射杀两人，死者身中百余颗铅弹####O O O O O O O O T T T T O O O O O O O O ####NEG
+0####6,9,10,17####副局长驾警车逼停公交抓获偷银行卡女子####O O O O O O T T T T T T T T T T T T ####POS
+1####10,17,6,9####副局长驾警车逼停公交抓获偷银行卡女子####O O O O O O T T T T T T T T T T T T ####POS
+0####10,17,10,17####副局长驾警车逼停公交抓获偷银行卡女子####O O O O O O T T T T T T T T T T T T ####POS
+0####4,5,14,15####2名男子谎称无钱安葬母亲闹市乞讨####O O O O T T O O O O O O O O T T ####NEG
+1####14,15,4,5####2名男子谎称无钱安葬母亲闹市乞讨####O O O O T T O O O O O O O O T T ####NEG
+0####14,15,14,15####2名男子谎称无钱安葬母亲闹市乞讨####O O O O T T O O O O O O O O T T ####NEG
+0####4,8,11,15####犯罪团伙雇佣近百人持枪抢劫原矿石获刑####O O O O T T T T T O O T T T T T O O ####NEG
+1####11,15,4,8####犯罪团伙雇佣近百人持枪抢劫原矿石获刑####O O O O T T T T T O O T T T T T O O ####NEG
+0####11,15,11,15####犯罪团伙雇佣近百人持枪抢劫原矿石获刑####O O O O T T T T T O O T T T T T O O ####NEG
+0####11,16,11,16####百余村民因土地租赁纠纷推倒学校大门####O O O O O O O O O O O T T T T T T ####NEG
+1####2,4,12,13####社区学雷锋为老人进行健康义诊####O O T T T O O O O O O O T T ####POS
+0####12,13,2,4####社区学雷锋为老人进行健康义诊####O O T T T O O O O O O O T T ####POS
+0####2,4,2,4####社区学雷锋为老人进行健康义诊####O O T T T O O O O O O O T T ####POS
+0####4,9,4,9####3名男子穿孕妇裤行窃被摄像头拍下####O O O O T T T T T T O O O O O O ####NEG
+1####6,9,11,14####大学总务处长掐死情人后割腕自杀####O O O O O O T T T T O T T T T ####NEG
+1####11,14,6,9####大学总务处长掐死情人后割腕自杀####O O O O O O T T T T O T T T T ####NEG
+0####6,9,6,9####大学总务处长掐死情人后割腕自杀####O O O O O O T T T T O T T T T ####NEG
+0####11,14,11,14####大学总务处长掐死情人后割腕自杀####O O O O O O T T T T O T T T T ####NEG
+1####3,4,11,15####男子为找钱给女友做人流杀害准新娘####O O O T T O O O O O O T T T T T ####NEG
+0####11,15,3,4####男子为找钱给女友做人流杀害准新娘####O O O T T O O O O O O T T T T T ####NEG
+0####3,4,3,4####男子为找钱给女友做人流杀害准新娘####O O O T T O O O O O O T T T T T ####NEG
+0####2,5,15,16####嫌犯制造假象诱使超市保安搜身后索赔####O O T T T T O O O O O O O O O T T ####NEG
+1####15,16,2,5####嫌犯制造假象诱使超市保安搜身后索赔####O O T T T T O O O O O O O O O T T ####NEG
+0####15,16,15,16####嫌犯制造假象诱使超市保安搜身后索赔####O O T T T T O O O O O O O O O T T ####NEG
+0####5,10,11,14####16岁女生强拍同学裸照逼其卖淫####O O O O O T T T T T T T T T T ####NEG
+1####11,14,5,10####16岁女生强拍同学裸照逼其卖淫####O O O O O T T T T T T T T T T ####NEG
+0####11,14,11,14####16岁女生强拍同学裸照逼其卖淫####O O O O O T T T T T T T T T T ####NEG
+1####2,6,8,12####女生群殴女同学并拍脱衣视频被批捕####T O T T T T O T T T T T O O O ####NEG
+1####8,12,2,6####女生群殴女同学并拍脱衣视频被批捕####T O T T T T O T T T T T O O O ####NEG
+0####2,6,2,6####女生群殴女同学并拍脱衣视频被批捕####T O T T T T O T T T T T O O O ####NEG
+0####8,12,8,12####女生群殴女同学并拍脱衣视频被批捕####T O T T T T O T T T T T O O O ####NEG
+1####5,13,18,19####患重病女子偷病友13600元，6天后自首####O O T O O T T T T T T T O O O T T ####NEG
+1####18,19,5,13####患重病女子偷病友13600元，6天后自首####O O T O O T T T T T T T O O O T T ####NEG
+0####5,13,5,13####患重病女子偷病友13600元，6天后自首####O O T O O T T T T T T T O O O T T ####NEG
+0####18,19,18,19####患重病女子偷病友13600元，6天后自首####O O T O O T T T T T T T O O O T T ####POS
+1####8,9,10,11####两男子登船受检时赌气谎称携带炸药被控制####O O O O O O O O T T T T O O O O O O O ####NEG
+0####10,11,8,9####两男子登船受检时赌气谎称携带炸药被控制####O O O O O O O O T T T T O O O O O O O ####NEG
+0####8,9,8,9####两男子登船受检时赌气谎称携带炸药被控制####O O O O O O O O T T T T O O O O O O O ####NEG
+0####16,17,16,17####派出所长电话中以脏话做暗号为赌场报信####O O O O O O O O O O O O O O O T T ####NEG
+1####5,7,15,16####男子按摩后不付钱被休闲中心老板撞死####O O O O O T T T O O O O O O O T T ####NEG
+1####15,16,5,7####男子按摩后不付钱被休闲中心老板撞死####O O O O O T T T O O O O O O O T T ####NEG
+0####5,7,5,7####男子按摩后不付钱被休闲中心老板撞死####O O O O O T T T O O O O O O O T T ####NEG
+0####15,16,15,16####男子按摩后不付钱被休闲中心老板撞死####O O O O O T T T O O O O O O O T T ####NEG
+0####4,13,4,13####男子恶意拨打100余次110被拘留####O O O O T T T T T T O O O ####NEG
+0####6,9,10,15####公婆不甘丢脸强灌农药杀死出轨儿媳####O O O O O O T T T T T T T T T T ####NEG
+1####10,15,6,9####公婆不甘丢脸强灌农药杀死出轨儿媳####O O O O O O T T T T T T T T T T ####NEG
+0####10,15,10,15####公婆不甘丢脸强灌农药杀死出轨儿媳####O O O O O O T T T T T T T T T T ####NEG
+1####6,7,9,10####男子在夜总会劝架被刺死，行凶者被判无期####O O O O O O T T O T T O O O O O O O ####POS
+1####9,10,6,7####男子在夜总会劝架被刺死，行凶者被判无期####O O O O O O T T O T T O O O O O O O ####POS
+0####6,7,6,7####男子在夜总会劝架被刺死，行凶者被判无期####O O O O O O T T O T T O O O O O O O ####POS
+0####9,10,9,10####男子在夜总会劝架被刺死，行凶者被判无期####O O O O O O T T O T T O O O O O O O ####NEG
+0####11,16,11,16####加拿大男子在长途汽车上割下邻座头颅####O O O O O O O O O O O T T T T T T ####NEG
+0####4,11,12,13####药店老板自制30张医保卡诈骗17万####O O O O T T T T T T T T T T O O O ####NEG
+1####12,13,4,11####药店老板自制30张医保卡诈骗17万####O O O O T T T T T T T T T T O O O ####NEG
+0####12,13,12,13####药店老板自制30张医保卡诈骗17万####O O O O T T T T T T T T T T O O O ####NEG
+1####7,12,14,15####男子为占有情人杀其丈夫女儿并焚尸####O O O O O O O T T T T T T O T T ####NEG
+1####14,15,7,12####男子为占有情人杀其丈夫女儿并焚尸####O O O O O O O T T T T T T O T T ####NEG
+0####7,12,7,12####男子为占有情人杀其丈夫女儿并焚尸####O O O O O O O T T T T T T O T T ####NEG
+0####14,15,14,15####男子为占有情人杀其丈夫女儿并焚尸####O O O O O O O T T T T T T O T T ####NEG
+0####9,10,9,10####军校生不满队长恶言跳楼身亡，女友目睹坠地####O O O O O O O O O T T O O O O O O O O O ####NEG
+1####2,5,11,12####绑匪绑架老板突遇警察，逃窜时遇车祸2人死亡####T O T T T O O O O O T T O O O O O O O ####NEG
+1####11,12,2,5####绑匪绑架老板突遇警察，逃窜时遇车祸2人死亡####T O T T T O O O O O T T O O O O O O O ####NEG
+0####2,5,2,5####绑匪绑架老板突遇警察，逃窜时遇车祸2人死亡####T O T T T O O O O O T T O O O O O O O ####NEG
+0####11,12,11,12####绑匪绑架老板突遇警察，逃窜时遇车祸2人死亡####T O T T T O O O O O T T O O O O O O O ####NEG
+0####5,8,9,11####女子从桥上跳入江中捞手机####O O O O O T T T T T T T ####POS
+1####9,11,5,8####女子从桥上跳入江中捞手机####O O O O O T T T T T T T ####POS
+0####9,11,9,11####女子从桥上跳入江中捞手机####O O O O O T T T T T T T ####POS
+0####2,7,2,7####男子杀害怀孕妻子，疑有精神病已被刑拘####O T T T T T T O O O O O O O O O O ####NEG
+0####6,14,6,14####110接线员帮男友清理杀人现场被判2年####O O O O O T T T T T T T T T O O O O ####NEG
+0####4,5,6,11####初一女生卖房救治重病父亲####O O O O T T T T T T T T ####POS
+1####6,11,4,5####初一女生卖房救治重病父亲####O O O O T T T T T T T T ####POS
+0####6,11,6,11####初一女生卖房救治重病父亲####O O O O T T T T T T T T ####POS
+0####9,12,9,12####慈溪五位高三毕业生急救老人！这份答卷，你打几分？####O O O O O O O O O T T T T O O O O O O O O O O O ####POS
+1####10,11,13,14####4名外籍女子在华非法居留且卖淫被拘留####O O O O O O O O O O T T O T T O O ####NEG
+1####13,14,10,11####4名外籍女子在华非法居留且卖淫被拘留####O O O O O O O O O O T T O T T O O ####NEG
+0####10,11,10,11####4名外籍女子在华非法居留且卖淫被拘留####O O O O O O O O O O T T O T T O O ####NEG
+0####13,14,13,14####4名外籍女子在华非法居留且卖淫被拘留####O O O O O O O O O O T T O T T O O ####NEG
+0####12,15,12,15####29岁教师遭拆迁公司员工围殴致死####O O O O O O O O O O O O T T T T ####NEG
+0####4,7,4,7####盗窃团伙流窜作案130余起被摧毁####O O O O T T T T O O O O O O O O ####NEG
+0####6,11,6,11####在读硕士商场猥亵女大学生被抓####O O O O O O T T T T T T O O ####NEG
+0####6,9,6,9####6人涉枪团伙寻衅滋事致多人受伤被捕####O O O O O O T T T T O O O O O O ####NEG
+0####4,11,4,11####街道领导慰问社区困难老人####O O O O T T T T T T T T ####POS
+1####8,11,12,15####男子为3000元杀死妻子守尸一夜####O T O O O O T T T T T T T ####NEG
+1####12,15,8,11####男子为3000元杀死妻子守尸一夜####O T O O O O T T T T T T T ####NEG
+0####8,11,8,11####男子为3000元杀死妻子守尸一夜####O T O O O O T T T T T T T ####NEG
+0####12,15,12,15####男子为3000元杀死妻子守尸一夜####O T O O O O T T T T T T T ####NEG
+0####9,10,9,10####2外籍人员涉嫌贩毒跳楼受重伤####O O O O O O O O O T T O O O ####NEG
+0####2,5,6,11####青年自制网页虚构网络炒股诈骗富翁百万元####O O T T T T T T T T T T T T T O O O ####NEG
+1####2,5,12,15####青年自制网页虚构网络炒股诈骗富翁百万元####O O T T T T T T T T T T T T T O O O ####NEG
+1####6,11,2,5####青年自制网页虚构网络炒股诈骗富翁百万元####O O T T T T T T T T T T T T T O O O ####NEG
+0####6,11,12,15####青年自制网页虚构网络炒股诈骗富翁百万元####O O T T T T T T T T T T T T T O O O ####NEG
+1####12,15,2,5####青年自制网页虚构网络炒股诈骗富翁百万元####O O T T T T T T T T T T T T T O O O ####NEG
+1####12,15,6,11####青年自制网页虚构网络炒股诈骗富翁百万元####O O T T T T T T T T T T T T T O O O ####NEG
+0####12,15,12,15####青年自制网页虚构网络炒股诈骗富翁百万元####O O T T T T T T T T T T T T T O O O ####NEG
+0####12,13,12,13####男子怀疑新婚妻子骗婚将其锤杀####O O O O O O O O O O T T ####NEG
+0####4,8,4,8####男子提刀报复前女友致1死5伤####O O O O T T T T T O O O O O ####NEG
+1####6,7,15,16####夫妻争吵女子跳河，贡川民警深夜救人####O O T T O O T T O O O O O O O T T ####NEG
+1####6,7,2,3####夫妻争吵女子跳河，贡川民警深夜救人####O O T T O O T T O O O O O O O T T ####NEG
+1####15,16,6,7####夫妻争吵女子跳河，贡川民警深夜救人####O O T T O O T T O O O O O O O T T ####NEG
+1####15,16,2,3####夫妻争吵女子跳河，贡川民警深夜救人####O O T T O O T T O O O O O O O T T ####NEG
+1####2,3,6,7####夫妻争吵女子跳河，贡川民警深夜救人####O O T T O O T T O O O O O O O T T ####NEG
+1####2,3,15,16####夫妻争吵女子跳河，贡川民警深夜救人####O O T T O O T T O O O O O O O T T ####NEG
+0####6,7,6,7####夫妻争吵女子跳河，贡川民警深夜救人####O O T T O O T T O O O O O O O T T ####NEG
+0####15,16,15,16####夫妻争吵女子跳河，贡川民警深夜救人####O O T T O O T T O O O O O O O T T ####POS
+0####2,3,2,3####夫妻争吵女子跳河，贡川民警深夜救人####O O T T O O T T O O O O O O O T T ####NEG
+1####2,5,9,12####民警归还钱包，失主连声称赞####O O T T T T O O O T T T T ####POS
+1####9,12,2,5####民警归还钱包，失主连声称赞####O O T T T T O O O T T T T ####POS
+0####2,5,2,5####民警归还钱包，失主连声称赞####O O T T T T O O O T T T T ####POS
+0####9,12,9,12####民警归还钱包，失主连声称赞####O O T T T T O O O T T T T ####POS
+1####4,7,16,19####初二学生争抢座位被同学刺死，家长打砸学校####O O T O T T T T O O T T O O O T T T ####NEG
+1####4,7,11,12####初二学生争抢座位被同学刺死，家长打砸学校####O O T O T T T T O O T T O O O T T T ####NEG
+1####16,19,4,7####初二学生争抢座位被同学刺死，家长打砸学校####O O T O T T T T O O T T O O O T T T ####NEG
+1####16,19,11,12####初二学生争抢座位被同学刺死，家长打砸学校####O O T O T T T T O O T T O O O T T T ####NEG
+1####11,12,4,7####初二学生争抢座位被同学刺死，家长打砸学校####O O T O T T T T O O T T O O O T T T ####NEG
+1####11,12,16,19####初二学生争抢座位被同学刺死，家长打砸学校####O O T O T T T T O O T T O O O T T T ####NEG
+0####4,7,4,7####初二学生争抢座位被同学刺死，家长打砸学校####O O T O T T T T O O T T O O O T T T ####NEG
+0####16,19,16,19####初二学生争抢座位被同学刺死，家长打砸学校####O O T O T T T T O O T T O O O T T T ####NEG
+0####11,12,11,12####初二学生争抢座位被同学刺死，家长打砸学校####O O T O T T T T O O T T O O O T T T ####NEG
+0####13,14,13,14####超载司机不满高额罚款用汽车堵路2天####O O O O O O O O O O O O O T T O O ####NEG
+0####9,10,9,10####地税局长由情妇出面受贿348万获刑####O O O O O O O O O T T O O O O O O ####NEG
+0####2,8,2,8####学校扣下应退借读费作捐资费做法遭质疑####O O T T T T T T T O O O O O O O O ####NEG
+0####7,8,7,8####街道查违办主任受贿32万被判缓刑，检察院抗诉####O O O O O O O T T O O O O O O O O O O O O O ####NEG
+1####12,13,9,11####日企女职员不堪上司性骚扰起诉获胜####O O O O O O O O O T T T T T O O ####POS
+1####9,11,12,13####日企女职员不堪上司性骚扰起诉获胜####O O O O O O O O O T T T T T O O ####POS
+0####12,13,12,13####日企女职员不堪上司性骚扰起诉获胜####O O O O O O O O O T T T T T O O ####POS
+0####9,11,9,11####日企女职员不堪上司性骚扰起诉获胜####O O O O O O O O O T T T T T O O ####NEG
+1####12,13,15,16####丈夫因怀疑妻子出轨将对方勒死后抛尸####O O O O O O O O O O O O T T O T T ####NEG
+1####15,16,12,13####丈夫因怀疑妻子出轨将对方勒死后抛尸####O O O O O O O O O O O O T T O T T ####NEG
+0####12,13,12,13####丈夫因怀疑妻子出轨将对方勒死后抛尸####O O O O O O O O O O O O T T O T T ####NEG
+0####15,16,15,16####丈夫因怀疑妻子出轨将对方勒死后抛尸####O O O O O O O O O O O O T T O T T ####NEG
+0####8,13,14,15####盗贼用屏蔽器遥控干扰汽车锁门偷窃####O O O O O O O O T T T T T T T T ####NEG
+1####14,15,8,13####盗贼用屏蔽器遥控干扰汽车锁门偷窃####O O O O O O O O T T T T T T T T ####NEG
+0####14,15,14,15####盗贼用屏蔽器遥控干扰汽车锁门偷窃####O O O O O O O O T T T T T T T T ####NEG
+0####2,5,8,11####男子冒充警察网上骗财骗色受审####O O T T T T O O T T T O O ####NEG
+1####8,11,2,5####男子冒充警察网上骗财骗色受审####O O T T T T O O T T T O O ####NEG
+0####8,11,8,11####男子冒充警察网上骗财骗色受审####O O T T T T O O T T T O O ####NEG
+0####2,11,2,11####民警助一迷路小孩找到家人####O O T T T T T T T T T T ####POS
+1####5,6,11,14####副校长酒后驾车撞倒围墙叫人顶包####O O O O O T T O O O O T T T T ####NEG
+1####11,14,5,6####副校长酒后驾车撞倒围墙叫人顶包####O O O O O T T O O O O T T T T ####NEG
+0####5,6,5,6####副校长酒后驾车撞倒围墙叫人顶包####O O O O O T T O O O O T T T T ####NEG
+0####11,14,11,14####副校长酒后驾车撞倒围墙叫人顶包####O O O O O T T O O O O T T T T ####NEG
+1####4,6,7,10####吸毒者为筹毒资追杀妻子后被其捅死####O T O O T T T T T T O O O O O ####NEG
+0####7,10,4,6####吸毒者为筹毒资追杀妻子后被其捅死####O T O O T T T T T T O O O O O ####NEG
+0####4,6,4,6####吸毒者为筹毒资追杀妻子后被其捅死####O T O O T T T T T T O O O O O ####NEG
+0####8,13,8,13####市媒体少年团爱心捐赠防疫用品情暖贡小校园####O O O O O O O O T T T T T T O O O O O O ####POS
+0####13,14,13,14####重型卡车碾压老汉致死，司机逃逸当观众####O O O O O O O O O O O O O T T O O O ####NEG
+0####2,9,10,15####网友晒昆明小偷分布图介绍防盗技巧####O O T T T T T T T T T T T T T T ####POS
+1####10,15,2,9####网友晒昆明小偷分布图介绍防盗技巧####O O T T T T T T T T T T T T T T ####POS
+0####10,15,10,15####网友晒昆明小偷分布图介绍防盗技巧####O O T T T T T T T T T T T T T T ####POS
+0####6,7,6,7####九旬老人义务扫街36年，刮风下雨从未间断####O O O O O O T T O O O O O O O O O O O O ####POS
+1####4,10,17,18####2名少年抢劫出租车司机分文未得将其砍残####O O O O T T T T T T T O O O O O O T T ####NEG
+1####17,18,4,10####2名少年抢劫出租车司机分文未得将其砍残####O O O O T T T T T T T O O O O O O T T ####NEG
+0####4,10,4,10####2名少年抢劫出租车司机分文未得将其砍残####O O O O T T T T T T T O O O O O O T T ####NEG
+0####17,18,17,18####2名少年抢劫出租车司机分文未得将其砍残####O O O O T T T T T T T O O O O O O T T ####NEG
+0####6,14,6,14####男子因两元钱掐死76岁看厕老太####O O O O O O T T T T T T T T T ####NEG
+0####5,14,5,14####黑摩的司机刺伤砸伤两名城管队员####O O O O O T T T T T T T T T ####NEG
+0####12,17,12,17####民警及时为受洪水所困住户开辟安全通道####O O O O O O O O O O O O T T T T T T ####POS
+0####6,9,10,15####日本变态教师擅闯小学拍摄儿童照片获刑####O O O O O O T T T T T T T T T T O O ####NEG
+1####10,15,6,9####日本变态教师擅闯小学拍摄儿童照片获刑####O O O O O O T T T T T T T T T T O O ####NEG
+0####10,15,10,15####日本变态教师擅闯小学拍摄儿童照片获刑####O O O O O O T T T T T T T T T T O O ####NEG
+0####12,13,12,13####卖猪肉夫妻明知肉被下毒仍贩卖，70余人中毒####T O O O O O O O O O O T O O O O O O ####NEG
+0####2,5,6,9####2人闯入公司绑架老板勒索500万####O O T T T T T T T T T T T T T ####NEG
+1####2,5,10,15####2人闯入公司绑架老板勒索500万####O O T T T T T T T T T T T T T ####NEG
+1####6,9,2,5####2人闯入公司绑架老板勒索500万####O O T T T T T T T T T T T T T ####NEG
+0####6,9,10,15####2人闯入公司绑架老板勒索500万####O O T T T T T T T T T T T T T ####NEG
+1####10,15,2,5####2人闯入公司绑架老板勒索500万####O O T T T T T T T T T T T T T ####NEG
+1####10,15,6,9####2人闯入公司绑架老板勒索500万####O O T T T T T T T T T T T T T ####NEG
+0####10,15,10,15####2人闯入公司绑架老板勒索500万####O O T T T T T T T T T T T T T ####NEG
+0####12,13,14,15####镇小学惊现11斤蟒蛇民警抓捕放生####O O O O O O O O O O O T T T T ####POS
+1####14,15,12,13####镇小学惊现11斤蟒蛇民警抓捕放生####O O O O O O O O O O O T T T T ####POS
+0####14,15,14,15####镇小学惊现11斤蟒蛇民警抓捕放生####O O O O O O O O O O O T T T T ####POS
+0####2,5,6,12####醉汉夜闯宿舍凌辱12岁女孩，同屋6女生装睡####O O T T T T T T T T T T T O O O O O T T ####NEG
+1####2,5,19,20####醉汉夜闯宿舍凌辱12岁女孩，同屋6女生装睡####O O T T T T T T T T T T T O O O O O T T ####NEG
+1####6,12,2,5####醉汉夜闯宿舍凌辱12岁女孩，同屋6女生装睡####O O T T T T T T T T T T T O O O O O T T ####NEG
+1####6,12,19,20####醉汉夜闯宿舍凌辱12岁女孩，同屋6女生装睡####O O T T T T T T T T T T T O O O O O T T ####NEG
+1####19,20,2,5####醉汉夜闯宿舍凌辱12岁女孩，同屋6女生装睡####O O T T T T T T T T T T T O O O O O T T ####NEG
+1####19,20,6,12####醉汉夜闯宿舍凌辱12岁女孩，同屋6女生装睡####O O T T T T T T T T T T T O O O O O T T ####NEG
+0####6,12,6,12####醉汉夜闯宿舍凌辱12岁女孩，同屋6女生装睡####O O T T T T T T T T T T T O O O O O T T ####NEG
+0####19,20,19,20####醉汉夜闯宿舍凌辱12岁女孩，同屋6女生装睡####O O T T T T T T T T T T T O O O O O T T ####NEG
+0####4,10,4,10####刑侦大队退还万余元赃款获好评####O O O O T T T T T T T O O O ####POS
+1####4,9,11,14####中年男子杀死年轻女子后跳桥自杀####O T O T T T T T O T T T ####NEG
+1####11,14,4,9####中年男子杀死年轻女子后跳桥自杀####O T O T T T T T O T T T ####NEG
+0####4,9,4,9####中年男子杀死年轻女子后跳桥自杀####O T O T T T T T O T T T ####NEG
+0####11,14,11,14####中年男子杀死年轻女子后跳桥自杀####O T O T T T T T O T T T ####NEG
+0####10,11,10,11####40名网友为孤寡老人洗脚####O O O O O O O O O O T T ####POS
+0####5,12,13,20####80后女孩骗售40套经适房套取1400多万####O T O O O T T T T T T T T T T T ####NEG
+1####13,20,5,12####80后女孩骗售40套经适房套取1400多万####O T O O O T T T T T T T T T T T ####NEG
+0####13,20,13,20####80后女孩骗售40套经适房套取1400多万####O T O O O T T T T T T T T T T T ####NEG
+0####13,14,13,14####男子疑因感情纠纷向一家三口行凶1人死亡####O O O O O O O O O O O O O T T O O O O ####NEG
+0####2,5,9,13####孕妇腰间系绳欲下河救智障男子####O O T T T T O O O T T T T T ####POS
+1####9,13,2,5####孕妇腰间系绳欲下河救智障男子####O O T T T T O O O T T T T T ####POS
+0####9,13,9,13####孕妇腰间系绳欲下河救智障男子####O O T T T T O O O T T T T T ####POS
+0####2,12,2,12####民警制服一名带刀精神病患者####O O T T T T T T T T T T T ####POS
+0####2,5,2,5####新娘隐瞒病史新婚夜晕倒被丈夫告上法庭####O O T T T T O O O O O O O O O O O ####NEG
+1####14,17,5,8####女学生驾车撞死老妇后夹带尸体逃离现场####O O O O O T T T T O O O O O T T T T ####NEG
+1####5,8,14,17####女学生驾车撞死老妇后夹带尸体逃离现场####O O O O O T T T T O O O O O T T T T ####NEG
+0####14,17,14,17####女学生驾车撞死老妇后夹带尸体逃离现场####O O O O O T T T T O O O O O T T T T ####NEG
+0####5,8,5,8####女学生驾车撞死老妇后夹带尸体逃离现场####O O O O O T T T T O O O O O T T T T ####NEG
+0####13,14,15,20####骗子自称领导秘书向下级单位借钱骗得65万元####T O O O O O O O O O O O O T T T T T T T ####NEG
+1####15,20,13,14####骗子自称领导秘书向下级单位借钱骗得65万元####T O O O O O O O O O O O O T T T T T T T ####NEG
+0####15,20,15,20####骗子自称领导秘书向下级单位借钱骗得65万元####T O O O O O O O O O O O O T T T T T T T ####NEG
+0####4,7,13,17####贡川民警上偏远村为痴呆老人办理身份证####O O O O T T T T O O O O O T T T T T ####POS
+1####13,17,4,7####贡川民警上偏远村为痴呆老人办理身份证####O O O O T T T T O O O O O T T T T T ####POS
+0####13,17,13,17####贡川民警上偏远村为痴呆老人办理身份证####O O O O T T T T O O O O O T T T T T ####POS
+0####9,16,9,16####八旬老人20年义务修建2公里长村路####O O O O T O O O O T T T T T T T ####POS
+0####5,10,11,12####三男子非法拘禁人大代表获利20万####O O O O O T T T T T T T T O O O ####NEG
+1####11,12,5,10####三男子非法拘禁人大代表获利20万####O O O O O T T T T T T T T O O O ####NEG
+0####11,12,11,12####三男子非法拘禁人大代表获利20万####O O O O O T T T T T T T T O O O ####NEG
+0####2,11,2,11####窃贼偷派出所办公桌上相机被刑事拘留####O O T T T T T T T T T T O O O O O ####NEG
+0####2,5,6,8####干部抛妻弃女傍富婆，丢官后杀害女方####O O T T T T T T T O O O O T T T ####NEG
+1####2,5,13,16####干部抛妻弃女傍富婆，丢官后杀害女方####O O T T T T T T T O O O O T T T ####NEG
+1####6,8,2,5####干部抛妻弃女傍富婆，丢官后杀害女方####O O T T T T T T T O O O O T T T ####NEG
+1####6,8,13,16####干部抛妻弃女傍富婆，丢官后杀害女方####O O T T T T T T T O O O O T T T ####NEG
+1####13,16,2,5####干部抛妻弃女傍富婆，丢官后杀害女方####O O T T T T T T T O O O O T T T ####NEG
+1####13,16,6,8####干部抛妻弃女傍富婆，丢官后杀害女方####O O T T T T T T T O O O O T T T ####NEG
+0####6,8,6,8####干部抛妻弃女傍富婆，丢官后杀害女方####O O T T T T T T T O O O O T T T ####NEG
+0####13,16,13,16####干部抛妻弃女傍富婆，丢官后杀害女方####O O T T T T T T T O O O O T T T ####NEG
+0####4,12,13,18####中介公司假扮银行职员办贷款骗业主千万元####O O O O T T T T T T T T T T T T T T T ####NEG
+1####13,18,4,12####中介公司假扮银行职员办贷款骗业主千万元####O O O O T T T T T T T T T T T T T T T ####NEG
+0####13,18,13,18####中介公司假扮银行职员办贷款骗业主千万元####O O O O T T T T T T T T T T T T T T T ####NEG
+0####16,19,16,19####父亲因担心女儿打工出事用铁链将其拴在家中####O O O O O O O O O O O O O O O O T T T T ####NEG
+1####5,8,14,15####女子舞厅外刺死男友后趴在身上痛哭####O O O O O T T T T O O O O O T T ####NEG
+1####14,15,5,8####女子舞厅外刺死男友后趴在身上痛哭####O O O O O T T T T O O O O O T T ####NEG
+0####5,8,5,8####女子舞厅外刺死男友后趴在身上痛哭####O O O O O T T T T O O O O O T T ####NEG
+0####14,15,14,15####女子舞厅外刺死男友后趴在身上痛哭####O O O O O T T T T O O O O O T T ####NEG
+1####3,10,14,17####开发商拖欠10月不交房，业主推翻围墙欲强行入住####O O O T T T T T T T T O O O T T T T O T T T T ####NEG
+1####3,10,19,22####开发商拖欠10月不交房，业主推翻围墙欲强行入住####O O O T T T T T T T T O O O T T T T O T T T T ####NEG
+1####14,17,3,10####开发商拖欠10月不交房，业主推翻围墙欲强行入住####O O O T T T T T T T T O O O T T T T O T T T T ####NEG
+0####14,17,19,22####开发商拖欠10月不交房，业主推翻围墙欲强行入住####O O O T T T T T T T T O O O T T T T O T T T T ####NEG
+1####19,22,3,10####开发商拖欠10月不交房，业主推翻围墙欲强行入住####O O O T T T T T T T T O O O T T T T O T T T T ####NEG
+1####19,22,14,17####开发商拖欠10月不交房，业主推翻围墙欲强行入住####O O O T T T T T T T T O O O T T T T O T T T T ####NEG
+0####3,10,3,10####开发商拖欠10月不交房，业主推翻围墙欲强行入住####O O O T T T T T T T T O O O T T T T O T T T T ####NEG
+0####19,22,19,22####开发商拖欠10月不交房，业主推翻围墙欲强行入住####O O O T T T T T T T T O O O T T T T O T T T T ####NEG
+0####11,12,11,12####男子嫌情妇长舌当街将其刺杀####O O O O O O O O O O O T T ####NEG
+0####11,14,11,14####贸易公司用10余个语种诈骗外商####O O O O O O O O O O O T T T T ####NEG
+1####7,12,14,19####市民花300元买3只野天鹅，上交救护中心发现上当####O O O T O O T T T T T O T T T T T T O O O ####POS
+1####14,19,7,12####市民花300元买3只野天鹅，上交救护中心发现上当####O O O T O O T T T T T O T T T T T T O O O ####POS
+0####7,12,7,12####市民花300元买3只野天鹅，上交救护中心发现上当####O O O T O O T T T T T O T T T T T T O O O ####POS
+0####14,19,14,19####市民花300元买3只野天鹅，上交救护中心发现上当####O O O T O O T T T T T O T T T T T T O O O ####POS
+0####8,16,8,16####七旬老汉13年间逼迫流浪女卖身卖子####O O O O O O O O T T T T T T T T ####NEG
+0####4,9,4,9####3名小贩打伤6个城管，1人头发被大面积拽落####O O O O T T T T T T O O O O O O O O O O O ####NEG
+0####10,15,10,15####幼儿园女教师用注射器针扎5岁男孩####O O O O O O O O O O T T T T T T ####NEG
+0####11,12,11,12####丈夫疑怀孕妻子出轨将其砍死####O O O O O O O O O O O T T ####NEG
+1####7,8,15,18####老人与入室小偷搏斗，女儿因恐惧躲在屋中####O O O O O O O T T O O O O O O T T T T ####POS
+1####15,18,7,8####老人与入室小偷搏斗，女儿因恐惧躲在屋中####O O O O O O O T T O O O O O O T T T T ####POS
+0####7,8,7,8####老人与入室小偷搏斗，女儿因恐惧躲在屋中####O O O O O O O T T O O O O O O T T T T ####POS
+0####15,18,15,18####老人与入室小偷搏斗，女儿因恐惧躲在屋中####O O O O O O O T T O O O O O O T T T T ####POS
+0####8,11,8,11####村民因儿子非亲生杀死三人####O O O O O O O O T T T T ####NEG
+0####6,7,6,7####老板经营不善逃匿，400多员工获政府垫薪####O O O O O O T T O O O O O O O O O O O ####NEG
+0####7,14,7,14####派出所民警及时救助一名摔伤老人####O O O O O O O T T T T T T T T ####POS
+1####3,7,8,12####男子为骗女友开房自导抢劫案被拘####O O O T T T T T T T T T T O O ####NEG
+0####8,12,3,7####男子为骗女友开房自导抢劫案被拘####O O O T T T T T T T T T T O O ####NEG
+0####3,7,3,7####男子为骗女友开房自导抢劫案被拘####O O O T T T T T T T T T T O O ####NEG
+0####2,3,7,15####老板谎称请吃饭设局殴打讨薪农民工####O O T T O O O T T T T T T T T T ####NEG
+1####7,15,2,3####老板谎称请吃饭设局殴打讨薪农民工####O O T T O O O T T T T T T T T T ####NEG
+0####7,15,7,15####老板谎称请吃饭设局殴打讨薪农民工####O O T T O O O T T T T T T T T T ####NEG
+0####2,7,8,11####妹妹冒用姐姐身份结婚生子，民政局被告上法庭####O T T T T T T T T T O O O O O O O O O ####NEG
+1####8,11,2,7####妹妹冒用姐姐身份结婚生子，民政局被告上法庭####O T T T T T T T T T O O O O O O O O O ####NEG
+0####8,11,8,11####妹妹冒用姐姐身份结婚生子，民政局被告上法庭####O T T T T T T T T T O O O O O O O O O ####NEG
+0####7,12,7,12####父母将患病婴儿弃至医院病床后消失####O O O O T O O T T T T T O O O ####NEG
+0####12,18,12,18####成都听力残疾儿十年如一日照顾植物人父亲，无怨无悔####O O O O O O O O O O O O T T T T T T T O O O O ####POS
+1####6,7,13,14####出租司机深夜救人被诬肇事遭殴打####O O O O O O T T O O O O O T T ####POS
+1####13,14,6,7####出租司机深夜救人被诬肇事遭殴打####O O O O O O T T O O O O O T T ####POS
+0####6,7,6,7####出租司机深夜救人被诬肇事遭殴打####O O O O O O T T O O O O O T T ####POS
+0####13,14,13,14####出租司机深夜救人被诬肇事遭殴打####O O O O O O T T O O O O O T T ####NEG
+1####3,8,16,17####大学生杀死下铺室友，疑因打呼噜被偷拍传上网####O O O T T T T T T O O O O O O O T T T T T ####NEG
+1####3,8,18,20####大学生杀死下铺室友，疑因打呼噜被偷拍传上网####O O O T T T T T T O O O O O O O T T T T T ####NEG
+1####16,17,3,8####大学生杀死下铺室友，疑因打呼噜被偷拍传上网####O O O T T T T T T O O O O O O O T T T T T ####NEG
+0####16,17,18,20####大学生杀死下铺室友，疑因打呼噜被偷拍传上网####O O O T T T T T T O O O O O O O T T T T T ####NEG
+1####18,20,3,8####大学生杀死下铺室友，疑因打呼噜被偷拍传上网####O O O T T T T T T O O O O O O O T T T T T ####NEG
+1####18,20,16,17####大学生杀死下铺室友，疑因打呼噜被偷拍传上网####O O O T T T T T T O O O O O O O T T T T T ####NEG
+0####3,8,3,8####大学生杀死下铺室友，疑因打呼噜被偷拍传上网####O O O T T T T T T O O O O O O O T T T T T ####NEG
+0####18,20,18,20####大学生杀死下铺室友，疑因打呼噜被偷拍传上网####O O O T T T T T T O O O O O O O T T T T T ####NEG
+0####2,3,2,3####男子救人善举引来女硕士与其相恋结婚####O O T T O O O O O O O O O O O O O ####POS
+0####4,6,4,6####女子网上骂老板数小时后遭解雇####O O O O T T T O O O O O O O ####NEG
+0####4,13,4,13####男子持刀抢走超市一听婴儿奶粉####O O O O T T T T T T T T T T ####NEG
+1####4,5,9,10####搬家工人辞职骑摩托抢劫落网####O O O O T T O O O T T O O ####NEG
+1####9,10,4,5####搬家工人辞职骑摩托抢劫落网####O O O O T T O O O T T O O ####NEG
+0####4,5,4,5####搬家工人辞职骑摩托抢劫落网####O O O O T T O O O T T O O ####NEG
+0####9,10,9,10####搬家工人辞职骑摩托抢劫落网####O O O O T T O O O T T O O ####NEG
+0####10,11,10,11####中国留美博士将女同学斩首可能面临终身监禁####O O O O O O O O O O T T O O O O O O O O ####NEG
+1####8,11,12,13####妻子婚外情败露后杀死丈夫焚尸####O O O O O O O O T T T T T T ####NEG
+1####12,13,8,11####妻子婚外情败露后杀死丈夫焚尸####O O O O O O O O T T T T T T ####NEG
+0####8,11,8,11####妻子婚外情败露后杀死丈夫焚尸####O O O O O O O O T T T T T T ####NEG
+0####12,13,12,13####妻子婚外情败露后杀死丈夫焚尸####O O O O O O O O T T T T T T ####NEG
+0####4,5,6,10####英国男孩割肉救孪生兄弟，血肉情谊更进一步####O O O O T T T T T T T O O O O O O O O ####POS
+1####6,10,4,5####英国男孩割肉救孪生兄弟，血肉情谊更进一步####O O O O T T T T T T T O O O O O O O O ####POS
+0####6,10,6,10####英国男孩割肉救孪生兄弟，血肉情谊更进一步####O O O O T T T T T T T O O O O O O O O ####POS
+0####3,10,11,14####驾驶员摹仿7名领导签字虚假报销3年获刑####O O O T T T T T T T T T T T T O O O O ####NEG
+1####11,14,3,10####驾驶员摹仿7名领导签字虚假报销3年获刑####O O O T T T T T T T T T T T T O O O O ####NEG
+0####11,14,11,14####驾驶员摹仿7名领导签字虚假报销3年获刑####O O O T T T T T T T T T T T T O O O O ####NEG
+0####5,8,9,12####妻子将住宅送给他人报复丈夫不忠####O O O O O T T T T T T T T O O ####NEG
+1####9,12,5,8####妻子将住宅送给他人报复丈夫不忠####O O O O O T T T T T T T T O O ####NEG
+0####9,12,9,12####妻子将住宅送给他人报复丈夫不忠####O O O O O T T T T T T T T O O ####NEG
+0####3,4,5,12####两男子盗墓掘走孝子亡父骨灰敲诈40万####O O T T T T T T T T T T T T O O O ####NEG
+1####3,4,13,14####两男子盗墓掘走孝子亡父骨灰敲诈40万####O O T T T T T T T T T T T T O O O ####NEG
+1####5,12,3,4####两男子盗墓掘走孝子亡父骨灰敲诈40万####O O T T T T T T T T T T T T O O O ####NEG
+0####5,12,13,14####两男子盗墓掘走孝子亡父骨灰敲诈40万####O O T T T T T T T T T T T T O O O ####NEG
+1####13,14,3,4####两男子盗墓掘走孝子亡父骨灰敲诈40万####O O T T T T T T T T T T T T O O O ####NEG
+1####13,14,5,12####两男子盗墓掘走孝子亡父骨灰敲诈40万####O O T T T T T T T T T T T T O O O ####NEG
+0####13,14,13,14####两男子盗墓掘走孝子亡父骨灰敲诈40万####O O T T T T T T T T T T T T O O O ####NEG
+0####9,12,9,12####男方父亲因彩礼纠纷扎死亲家####O O O T O O O O O T T T ####NEG
+0####12,14,12,14####赌博男子用假房产证给债主作抵押被公诉####O O O O O O O O O O O O T T T O O O ####NEG
+0####6,7,8,12####6名歹徒持枪围堵劫走私家车####O O O O O O T T T T T T T ####NEG
+1####8,12,6,7####6名歹徒持枪围堵劫走私家车####O O O O O O T T T T T T T ####NEG
+0####8,12,8,12####6名歹徒持枪围堵劫走私家车####O O O O O O T T T T T T T ####NEG
+0####8,13,8,13####6男子在北京西站强卖自制地图被判刑####O O O O O O O O T T T T T T O O O ####NEG
+0####2,6,12,13####母亲冒充官太太带已婚女儿征婚骗财####O O T T T T O O T O O T T T ####NEG
+1####2,6,14,15####母亲冒充官太太带已婚女儿征婚骗财####O O T T T T O O T O O T T T ####NEG
+1####12,13,2,6####母亲冒充官太太带已婚女儿征婚骗财####O O T T T T O O T O O T T T ####NEG
+0####12,13,14,15####母亲冒充官太太带已婚女儿征婚骗财####O O T T T T O O T O O T T T ####NEG
+1####14,15,2,6####母亲冒充官太太带已婚女儿征婚骗财####O O T T T T O O T O O T T T ####NEG
+1####14,15,12,13####母亲冒充官太太带已婚女儿征婚骗财####O O T T T T O O T O O T T T ####NEG
+0####14,15,14,15####母亲冒充官太太带已婚女儿征婚骗财####O O T T T T O O T O O T T T ####NEG
+0####3,4,5,15####老教授赠房援助因见义勇为致残朋友####O O O T T T T T T T T T T T T T ####POS
+1####5,15,3,4####老教授赠房援助因见义勇为致残朋友####O O O T T T T T T T T T T T T T ####POS
+0####5,15,5,15####老教授赠房援助因见义勇为致残朋友####O O O T T T T T T T T T T T T T ####POS
+1####8,9,6,7####父亲撞见儿子吸毒报警抓人####O O O O O O T T T T O O ####POS
+1####6,7,8,9####父亲撞见儿子吸毒报警抓人####O O O O O O T T T T O O ####POS
+0####8,9,8,9####父亲撞见儿子吸毒报警抓人####O O O O O O T T T T O O ####POS
+0####6,7,6,7####父亲撞见儿子吸毒报警抓人####O O O O O O T T T T O O ####NEG
+0####8,11,13,18####农民用一辈子积蓄做环保袋欲送伦敦奥运会####O O O O O O O O T T T T O T T T T T T ####POS
+1####13,18,8,11####农民用一辈子积蓄做环保袋欲送伦敦奥运会####O O O O O O O O T T T T O T T T T T T ####POS
+0####13,18,13,18####农民用一辈子积蓄做环保袋欲送伦敦奥运会####O O O O O O O O T T T T O T T T T T T ####POS
+0####4,9,4,9####外滩小贩强擦老外皮鞋被拘####T O O O T T T T T O O ####NEG
+0####4,7,4,7####5旬村妇骗婚诈骗23万元被判10年####O O O O T T T O O O O O O O O O ####NEG
